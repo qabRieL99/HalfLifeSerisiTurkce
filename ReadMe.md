@@ -12,4 +12,5 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 - Bazı durumlarda yazılar ekranı kapladığı için kullanılmadı. (Blue Shift'te askerlerin yazıları, Decay'de giysi şarjı yüzdeleri)
 - Bazı yerlerde nokta ve virgül olmaması gereken yerde kesilebilir. Şu an için elimden gelen bir şey yok.
 
+### Ekran Görüntüleri
 <img src="https://i.imgur.com/li0tszg.jpg" width="480" height="270" /> <img src="https://i.imgur.com/pB5aYFM.jpg" width="480" height="270" /> <img src="https://i.imgur.com/mp0kDtl.jpg" width="480" height="270" /> <img src="https://i.imgur.com/8gKEzvk.jpg" width="480" height="270" /> <img src="https://i.imgur.com/wfMd2n8.jpg" width="480" height="270" />

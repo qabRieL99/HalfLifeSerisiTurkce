@@ -7,7 +7,7 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 ### Genel Notlar
  - <ins>Yalnızca</ins> Steam sürümünde çalışmaktadır. (Mevcut sürüm `8684`)
 -   Bu mod devredeyken, online şekilde bir oyuna  <ins>katılmayın</ins>. Yoksa VAC ban yeme ihtimaliniz olur. Ben her oyunu en az ikişer defa bitirdim, şu ana kadar herhangi bir sorun olmadı. Siz yine de garantiye almak isterseniz, Steam'i çevrimdışı modda başlatın. Bu yüzden Decay'i tek başınıza oynamanız gerekiyor.
--  Çözünürlük sıkıntı çıkarıyorsa, uygulamanın özelliklerinden uyumluluk seçeneğini işaretleyin. <img src="https://img.donanimhaber.com/upfiles/794792/66454e33-7d67-48fc-b0be-3520d8dc719e.jpeg" width="200" height="200" />
+-  Çözünürlük sıkıntı çıkarıyorsa, uygulamanın özelliklerinden uyumluluk seçeneğini işaretleyin. <img src="https://img.donanimhaber.com/upfiles/794792/66454e33-7d67-48fc-b0be-3520d8dc719e.jpeg" width="50" height="50" />
 - Birkaç yerde bazı satırlar oyunun içine gömülü olduğu için çevrilemedi.
 - Bazı durumlarda yazılar ekranı kapladığı için kullanılmadı. (Blue Shift'te askerlerin yazıları, Decay'de giysi şarjı yüzdeleri)
 - Bazı yerlerde nokta ve virgül olmaması gereken yerde kesilebilir. Şu an için elimden gelen bir şey yok.

@@ -17,9 +17,13 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 
 ### İndirme
 [HalfLifeTR.zip](https://github.com/qabRieL99/HalfLifeSerisiTurkce/files/5604479/HalfLifeTR.zip)
+
 [OpposingForce.zip](https://github.com/qabRieL99/HalfLifeSerisiTurkce/files/5604480/OpposingForce.zip)
+
 [BlueShiftTR.zip](https://github.com/qabRieL99/HalfLifeSerisiTurkce/files/5604482/BlueShiftTR.zip)
+
 [UplinkTR.zip](https://github.com/qabRieL99/HalfLifeSerisiTurkce/files/5604481/UplinkTR.zip)
+
 [DecayTR.zip](https://github.com/qabRieL99/HalfLifeSerisiTurkce/files/5604483/DecayTR.zip)
 
 ### Kurulum

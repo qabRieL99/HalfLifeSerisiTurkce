@@ -29,4 +29,4 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 ### Kurulum
  1. İstediğiniz oyunun yamasını indirin.
  2. Arşiv dosyasının içindekileri alıp Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumdadır.)
- 3. Oyunu arşivin içindeki uygulama dosyasından çalıştırın. (örneğin, Half-Life için `valve.exe` | Blue Shift için `bshift.exe`)
+ 3. Oyunu arşivin içindeki uygulama dosyasından çalıştırın. (örneğin, Half-Life için `valve.exe` ve Blue Shift için `bshift.exe`)

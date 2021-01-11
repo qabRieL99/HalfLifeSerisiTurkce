@@ -290,7 +290,7 @@
 "sci_pain3"	"Hayır!"
 "sci_pain6"	"Hayır!"
 "sci_pain7"	"Hayır!"
-"sci_pain8"	"Hayır"
+"sci_pain8"	"Hayır!"
 "sci_pain9"	"Dur!"
 "sci_pain10"	"Hayır!"
 "sci_somewhere"	"Senin yarım saat önce deney odasında olman gerekmiyor muydu?"
@@ -405,10 +405,10 @@
 //Uplink Scientist Specific
 "c1a4_sci_blind"	"Orada kimse var mı? Hiçbir şey göremiyorum."
 "c3a1_sci_2sat"	"Kusura bakma ama o kapılar biz tehlike geçti işaretini verene kadar açılmayacak."
-"c3a1_sci_4sat"	"Bunu yapmayı çok isterdim ancak bölgeyi bombardımana tuttukları için aktarıcımın canına okudu, kablolarını dağıttı. Elimizle nişan almalıyız ancak aktarıcı kubbeden yüksek seviyede ışınım değerleri alıyorum. Oraya ancak bir gerzek gider."
-"c3a1_sci_6sat"	"Evet. Üzerindeki o giysiyle hayatta kalabilirsin. Çok güzel. Uydu erişimi asansöründeki güvenliği azaltacağım, böylelikle kubbeye girebilirsin. Sana uzaktan iletişim sistemi ile yardımcı olmaya çalışacağım."
-"c3a1_sci_dome"	"Freeman. Hızlı çalışsan iyi edersin. Aktarıcıyı 'US NRC' yazısına çevir. Terkar ediyorum! 'US NRC' yazısına çevir!"
-"c3a1_sci_done"	"Muhteşem. Tehlike geçti işaretini gönderiyorum, kapılar açılacaktır. Seninle aşağıda görüşürüz."
+"c3a1_sci_4sat"	"Bunu yapmayı çok isterdim ancak bölgeyi bombardımana tutmaları aktarıcımın canına okudu, kablolarını dağıttı. Elle nişan almamız gerekiyor ancak aktarıcı kubbeden yüksek seviyede ışınım değerleri alıyorum. Oraya gitse gitse gerzek gider."
+"c3a1_sci_6sat"	"Evet. Üzerindeki o giysiyle hayatta kalabilirsin. Çok güzel. Uydu erişimi asansöründeki güvenliği azaltacağım, böylelikle kubbeye girebilirsin. Sana uzaktan iletişim sistemi üzerinden yardımcı olmaya çalışacağım."
+"c3a1_sci_dome"	"Freeman. Hızlı çalışsan iyi edersin. Aktarıcıyı US NRC kısmına çevir. Terkar ediyorum! US NRC kısmına çevir!"
+"c3a1_sci_done"	"Muhteşem. Tehlike geçti işaretini gönderiyorum, kapılar da açılacaktır. Seninle aşağıda görüşürüz."
 
 //Barney Scientist Specific
 "c3a2_ba_stay"	"Burada kalacağım. Buraya ait olmayan bir şey görürsem, ateş etmeye başlayacağım."

@@ -55,7 +55,7 @@ Scheme
 				"tall"		"19"
 				"weight"	"400"
 				"antialias"	"1"
-				"outline2"	"1" //antialias, custom, outline, outline2, dropshadow, underline, italic, strikeout, additive, scanlines
+				"outline2"	"1"
 				"custom"	"1"
 			}
 		}

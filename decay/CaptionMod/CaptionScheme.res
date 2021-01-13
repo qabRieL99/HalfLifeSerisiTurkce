@@ -24,47 +24,6 @@ Scheme
 
 	Fonts
 	{
-		"Default"
-		{
-			"1"
-			{
-				"name"		"Verdana"
-				"tall"		"12"
-				"weight"	"600"
-				"yres"	"480 599"
-			}
-			"2"
-			{
-				"name"		"Verdana"
-				"tall"		"13"
-				"weight"	"600"
-				"yres"	"600 767"
-			}
-			"3"
-			{
-				"name"		"Verdana"
-				"tall"		"14"
-				"weight"	"600"
-				"yres"	"768 1023"
-				"antialias"	"1"
-			}
-			"4"
-			{
-				"name"		"Verdana"
-				"tall"		"20"
-				"weight"	"600"
-				"yres"	"1024 1199"
-				"antialias"	"1"
-			}
-			"5"
-			{
-				"name"		"Verdana"
-				"tall"		"24"
-				"weight"	"600"
-				"yres"	"1200 6000"
-				"antialias"	"1"
-			}
-		}
 		"CreditsFont" // for HudMessage
 		{
 			"1"
@@ -96,14 +55,9 @@ Scheme
 				"tall"		"19"
 				"weight"	"400"
 				"antialias"	"1"
-				"outline2"	"1" //antialias, custom, outline, outline2, dropshadow, underline, italic, strikeout, additive, scanlines
+				"outline2"	"1"
 				"custom"	"1"
 			}
 		}
 	}
-
-	//CustomFontFiles
-	//{
-	//	1 "captionmod/fonts/SourceHanSansK-Light.ttf"
-	//}
 }

@@ -4,11 +4,11 @@
 
 ## Açıklama
 Bu çeviri, 5 Half-Life oyununu içerir:
-[Half-Life](https://store.steampowered.com/app/70), [Opposing Force](https://store.steampowered.com/app/50), [Blue Shift](https://store.steampowered.com/app/130), [Decay](https://www.moddb.com/mods/half-life-decay), [Uplink](https://www.halflifeuplink.com/hlulsl).
+[Half-Life](https://store.steampowered.com/app/70), [Half-Life: Opposing Force](https://store.steampowered.com/app/50), [Half-Life: Blue Shift](https://store.steampowered.com/app/130), [Half-Life: Decay](https://www.moddb.com/mods/half-life-decay) ve [Half-Life: Uplink](https://www.halflifeuplink.com/hlulsl).
 
 ## :information_source: Genel Notlar
 * <ins>Yalnızca</ins> Steam sürümünde çalışmaktadır. (Mevcut sürüm `8684`)
-* Oyunu mod ile birlikte oynarken, online şekilde bir sunucuya  <ins>katılmayın</ins>. Yoksa VAC ban yeme ihtimaliniz olur. Çevrimışı oyunda, yani senaryo modunda sıkıntı çıkarmayacaktır. Siz yine de garantiye almak isterseniz, Steam'i çevrimdışı modda başlatın.
+* Oyunu mod ile birlikte oynarken, online şekilde bir sunucuya  <ins>katılmayın</ins>. Yoksa VAC ban yeme olasılığınız olur. Çevrimdışı oyunda, yani senaryo modunda sıkıntı çıkarmayacaktır. Yine de garantiye almak isterseniz, Steam'i çevrimdışı modda başlatın.
 	* Bu yüzden Decay'i tek başınıza oynamanız gerekiyor.
 * Birkaç yerde bazı satırlar sabit kodlu olduğu için çevrilemedi.
 * Bazı durumlarda yazılar ekranı kapladığı için kullanılmadı. (Blue Shift'te askerlerin yazıları, Decay'de giysi şarjı yüzdeleri)
@@ -37,17 +37,28 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 
 ## :clipboard: Kurulum
 ### :computer: Otomatik:
-1. CaptionMod yükleyici dosyasını [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden indirin ve çalıştırın.
+1. `CaptionMod Yükleyici` uygulamasını [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden indirin ve çalıştırın.
 2. Program otomatik olarak Steam konumunuzu ve kurulu oyunları bulacaktır.
 3. Yüklemek istediğiniz yamaları işaretleyip `Yükle` tuşuna basın.
 4. Yamalar yüklenecek ve masaüstünüze CaptionMod Ayarları adında bir program daha eklenecek, bununla gerekli ayarları yapıp oyunları başlatabilirsiniz. 
 
 ### :raised_hand: Elle:
-1. [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümüne gidip "Source Code" yazan kısma tıklayıp dosyaları indirin.
-2. Arşiv dosyasının içindekileri alıp, hangi oyuna eklemek istiyorsanız Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumdadır.)
-3. Oyunu başlatmak için, metahook.exe dosyasını ona göre yeniden adlandırıp çalıştırın. (örneğin, Half-Life için `valve.exe`, Blue Shift için `bshift.exe` ve Opposing Force için `gearbox.exe`)
+1. [Buraya](https://github.com/qabRieL99/HalfLifeSerisiTurkce/archive/v1.1.zip) tıklayarak bütün dosyaları indirin.
+2. Yüklemek istediğiniz oyuna karar verin:
 
-## :warning: Oyun ve Mod ile alakalı genel notlar ve ipuçları:
+|Kısaltma|Açılımı|
+|----|----|
+|bshift|Half-Life: Blue Shift|
+|decay|Half-Life: Decay|
+|gearbox|Half-Life: Opposing Foce|
+|hlulsl|Half-Life: Uplink|
+|valve|Half-Life|
+
+3. Örnek olarak, Decay'i yükleyelim, indirdiğimiz dosyadaki `decay` klasörünü kopyalayıp, Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumdadır.)
+4. `metahook` isimli uygulamayı da kopyalayıp, Half-Life klasörüne atın ve ardından adını `decay` olarak değiştirin.
+5. `decay` isimli uygulamadan oyunu başlatın.
+
+## :warning: Oyun ve Mod ile alâkalı genel notlar ve ipuçları:
 * Sıkıntısız bir kurulum için Yönetici olarak çalıştırın.
 * Blue Shift ve Opposing Force'da fare sıkıntı çıkarıyorsa, konsolu açıp (é tuşu ile) `m_rawinput 1` yazın.
 	* Fare hassasiyetini yine konsola `sensitivity #` yazarak değiştirebilirsiniz. (# yerine bir sayı girin.)

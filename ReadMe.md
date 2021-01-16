@@ -33,7 +33,7 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 </table>
 
 ## :floppy_disk: İndirme Bağlantısı
-[Tıklayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/)
+[Tıklayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/tag/v1.1)
 
 ## :clipboard: Kurulum
 ### :computer: Otomatik:

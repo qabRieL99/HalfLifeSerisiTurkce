@@ -1,6 +1,6 @@
-
 # Half-Life Serisi Türkçe Çeviri :tr:
-![](https://i.imgur.com/BEAhVTU.jpg)
+![](https://i.imgur.com/BEAhVTU.jpg)<br>
+You can read it in [English.](ReadMe_EN.md)
 
 ## Açıklama
 Bu çeviri, 5 Half-Life oyununu içerir:
@@ -66,7 +66,7 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 	* 16:9 bir çözünürlük kullanıyorsanız (`1920x1080` ya da `1366x768` gibi), konsola `default_fov 106` yazısını girin.
 * Oyunu oynamak Steam'in çalışır durumda olması gerekir.
 
-## :memo: Kaynak Kod:
+## :memo: Kaynak Kod
 CaptionMod Yükleyici ve CaptionMod Ayarlar programlarını kaynak kodlarına [şuradan](https://github.com/qabRieL99/CaptionModTools) erişebilirsiniz.
 
 ## :bookmark_tabs: Sürüm Geçmişi

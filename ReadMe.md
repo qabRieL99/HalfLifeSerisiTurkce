@@ -23,12 +23,12 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 </table>
 
 <table>
-<td><img src="https://i.imgur.com/li0tszg.jpg" width="480" height="270" /> </td>
-<td><img src="https://i.imgur.com/pB5aYFM.jpg" width="480" height="270" /></td>
+<td><img src="https://i.imgur.com/li0tszg.jpg" width="450" height="260" /> </td>
+<td><img src="https://i.imgur.com/pB5aYFM.jpg" width="450" height="260" /></td>
 </tr>
 <tr>
-<td><img src="https://i.imgur.com/mp0kDtl.jpg" width="480" height="270" /></td>
-<td><img src="https://i.imgur.com/8gKEzvk.jpg" width="480" height="270" /></td>
+<td><img src="https://i.imgur.com/mp0kDtl.jpg" width="450" height="260" /></td>
+<td><img src="https://i.imgur.com/8gKEzvk.jpg" width="450" height="260" /></td>
 </tr>
 </table>
 

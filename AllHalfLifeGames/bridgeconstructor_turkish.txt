@@ -1,0 +1,424 @@
+LC_Language	Dil
+LC_Game_Loading	Yükleniyor
+LC_Loading	Yükleniyor
+LC_General_OK	TAMAM
+LC_General_Cancel	İptal
+LC_General_Yes	Evet
+LC_General_No	Hayır
+LC_General_Back	Geri
+LC_General_Apply	Uygula
+LC_StartMenu_Play	Oynat
+LC_StartMenu_Exit	Çıkış
+LC_StartMenu_Credits	Krediler
+LC_StartMenu_Restart	Yeni Oyun
+LC_StartMenu_SelectLevel	Seviye seç
+LC_Game_Restart_Warning	Oyundaki ilerlemeyi sil?
+LC_Game_Exit_Warning	Oyundan çık?
+LC_Options_Header	Seçenekler
+LC_Options_MusicVolume	Müzik
+LC_Options_EffectsVolume	Efektler
+LC_Options_VoiceVolume	Sesler
+LC_Options_FullScreen	Tam ekran
+LC_Options_ClearSavegame	Oyun kaydını sil
+LC_Options_Resolution	Çözünürlük
+LC_Options_ControllerSensitivity	İmleç ve Kaydırma Hızı
+LC_Options_PostFX	Post FX
+LC_Low	Düşük
+LC_Medium	Orta
+LC_High	Yüksek
+LC_Options_AntiAliasing	Kenar düzeltme
+LC_OFF	Kapalı
+LC_AA_2	2x MSAA
+LC_AA_4	4x MSAA
+LC_AA_8	8x MSAA
+LC_Options_Shadows	Gölgeler
+LC_Options_FPS	FPS Limiti
+LC_Options_FPS_30	30
+LC_Options_FPS_60	60
+LC_Options_Displaybased	Görüntü temelli
+LC_Levels_Start	Başlat
+LC_Levels_Header	Seviyeler
+LC_LevelDisplay_VehiclesInLine	Hazır: {1}
+LC_LevelDisplay_Destroyed	Yok edilen: {1}
+LC_LevelDisplay_Passed	Geçilen: {1}
+LC_Intro_Start_Controller	Bas
+LC_Intro_Start_MouseKeyboard	Başlamak için tıkla
+LC_Intro_Start_Touch	Başlamak için dokun
+LC_Intro_StartWithTutorial	Eğitim ile başla
+LC_BuildMode_ClearConstruction	İnşaatı Temizle?
+LC_BuildMode_Simulating	Simüle ediliyor...
+LC_BuildMode_Budget	Bütçe
+LC_BuildMode_Score	Puan
+LC_Navigation_Test	Test et
+LC_Navigation_Build	İnşa et
+LC_Navigation_Drive	Sür
+LC_Navigation_Convoy	Konvoy
+LC_LevelMenu_Menu	Menü
+LC_LevelMenu_LoadConstruction	İnşaatı Yükle
+LC_LevelMenu_SaveConstruction	İnşaatı Kaydet
+LC_LevelMenu_GalleryButton	En iyi uygulamalar
+LC_LevelMenu_NextLevel	Sonraki seviye
+LC_LevelMenu_ExitLevel	Ana Menüye Çık
+LC_LevelMenu_ClearConstruction	İnşaatı temizle
+LC_LevelMenu_Controls	Kontroller
+LC_WinScreen_Success	Başarılı!
+LC_WinScreen_Expenses	Savurganca harcadığın:
+LC_WinScreen_Vehicles	Getirilen test araçları:
+LC_WinScreen_NormalBadge	Marjinal...
+LC_WinScreen_ExpertBadge	Mükemmel!
+LC_WinScreen_ExitLevel	Paydos et
+LC_WinScreen_NextLevel	Sonraki Seviye
+LC_Network_SignIn	Giriş Yap
+LC_Message_BuildLimitReached	Maksimum inşaat bileşeni sayısına ulaştın!
+LC_Message_NoInternetConnection	İnternet bağlantısı yok. Lütfen bağlantınızı kontrol edin.
+LC_Score_Rate_Button	Oyla
+LC_Score_Rate_Text	Bridge Constructor Portal'ı beğendin mi? Oylayarak oyunumuzun yayılmasına destek ol!
+LC_Rate_Answer_NoThanks	Hayır, teşekkürler.
+LC_Rate_Answer_NotNow	Şimdi değil.
+LC_Start_Menu_More_Games	Daha çok oyun
+LC_Achievement_Unlocked	Yeni Başarı!
+LC_Achievements	Başarılar
+LC_Crosspromo	Buradan daha fazlasını bulabilirsin:
+preparing_filesystem	Portal Tabancası şarj ediliyor ...
+cloud_sync_in_progress	Oyun kaydı bulutla eşitleniyor
+cloud_change_detected	Dikkat, şu anda bulutta farklı bir oyun kaydı mevcut. Yeni oyun kaydını kullanmak için lütfen oyunu yeniden yükle.
+cloud_change_detected_button	Oyunu yeniden yükle
+cloud_became_available_with_local_changes	Bulut hizmeti etkinleştirildi. Hangi oyun kayıtlarını saklamak istiyorsun?
+cloud_became_available_with_local_changes_local_button	Yerel oyun kayıtları kullan ve bulutun üstüne kaydet
+cloud_became_available_with_local_changes_cloud_button	Bulut oyun kayıtları kullan ve yerel kaydın üstüne kaydet
+LC_Tut_General_ControllerInfo	Kontrol cihazı eğitimini göstermek için bir kontrol cihazı kullan.
+LC_Tut_General_TouchInfo	Dokunmatik kontrol eğitimini göstermek için ekrana dokun.
+LC_Tut_General_MouseInfo	Fare ve klavye eğitimini göstermek için imleci oynat.
+LC_Tut_General_JoyCon	Kontrol cihazı eğitimini göstermek için Joy-Con kullan.
+LC_Tut_GeneralIntro_1	Merhaba, Aperture Science Bilgisayar Destekli Güçlendirme Merkezi'ne tekrar hoş geldin.<t:4.5>
+LC_Tut_GeneralIntro_2	Kurumsal hükümler uyarınca başvuru yapan herkesin bu Test Etme Serisi Testleri için hazırlanan Test Serisi'ni tamamlaması gerekiyor.<t:6>
+LC_Tut_GeneralIntro_2new	"Kurumsal hükümler uyarınca başvuru yapan herkesin bu Test Etme Serisi Testleri için hazırlanan Test Serisi'ni tamamlaması gerekiyor.<t:6><t:1.5>\nAma başlamadan önce, lütfen ciddi yaralanmalar olabileceğini unutma.<t:4>"
+LC_Tut_GeneralIntro_3	Başlamadan önce, lütfen unutma ki, güçlendirme merkezi faaliyetleri her ne kadar eğlenceli ve eğitici olsa da, ciddi yaralanmalar meydana gelebilir.<t:9>
+LC_Tut_GeneralIntro_4	Güçlendirme Merkezi, ölümcül bir iş kazası yaşanması durumunda, maaşında hiçbir kesinti yapılmadan ailene haber verileceğini gururla beyan eder.<t:8>
+LC_Tut_GeneralIntro_5	İlk görevin, bir test aracının Test Odası'na ulaşabilmesi için bir köprü inşa etmek.<t:5.5>
+LC_Tut_RemoveAndBuild_0	İlk olarak, senden önceki çalışanın geriye bıraktığı işe yaramaz şeyleri ortadan kaldırmamız lazım. Hayır onun ailesinden bahsetmiyoruz.<t:6>
+LC_Tut_Mob_RemoveAndBuild_2	Bir bileşeni veya bağlantı noktasını kaldırmak için ona iki kez dokun.
+LC_Tut_Desk_RemoveAndBuild_2	"Bir bileşeni veya bağlantı noktasını kaldırmak için üzerinde <sprite=\"Buttons_PC\" name=\"PC_MouseLeftDouble\"> yap."
+LC_Tut_Xbox_RemoveAndBuild_2	"İmleci <sprite=\"Buttons_XB1\" name=\"XB1_L\"> ile bir bileşenin veya bağlantı noktasının üzerine getir ve silmek için <sprite=\"Buttons_XB1\" name=\"XB1_B\"> düğmesine bas."
+LC_Tut_Switch_RemoveAndBuild_2	"İmleci <sprite=\"Buttons_Switch\" name=\"Switch_LS\"> ile bir bileşenin veya bağlantı noktasının üzerine getir ve silmek için <sprite=\"Buttons_Switch\" name=\"Switch_B\"> düğmesine bas."
+LC_Tut_PS4_RemoveAndBuild_2	"İmleci <sprite=\"Buttons_PS4\" name=\"PS4_L\"> ile bir bileşenin veya bağlantı noktasının üzerine getir ve silmek için <sprite=\"Buttons_PS4\" name=\"PS4_Circle\"> düğmesine bas."
+LC_Tut_RemoveAndBuild_3	Tüm mevcut bileşenleri kaldır.
+LC_Tut_RemoveAndBuild_4	Mükemmel! Sorgulamadan yok etme yeteneğin oldukça etkileyici.<t:4>
+LC_Tut_RemoveAndBuild_5	Şimdi bu Aperture Science Değiştirilebilir İskele Kalasları'nı kullanarak yeni bir inşaatı değiştireceğiz.<t:5>
+LC_Tut_RemoveAndBuild_6	Bu özel Aperture Science İnşaat Bağlantı Noktaları ile başlayarak Değiştirilebilir İskele Kalasları'nı birbirine bağla.<t:6>
+LC_Tut_RemoveAndBuild_7	Köprü için bir iskele inşa etmek için kılavuz çizgileri takip et.
+LC_Tut_Mob_RemoveAndBuild_8	Turuncu bir ankordan başla, inşaat bileşenlerini parmağınla çek. Bir bileşeni kaldırmak için Geri Al düğmesini kullan veya onun üzerine iki kez dokun.
+LC_Tut_Desk_RemoveAndBuild_8	"İnşa etmeye başlamak için bir inşaat noktası üzerinde<sprite=\"Buttons_PC\" name=\"PC_MouseLeft\"> düğmesine bas. Yeni bir bileşeni yerleştirmek için imleci istediğin yere götür ve tekrar <sprite=\"Buttons_PC\" name=\"PC_MouseLeft\"> düğmesine bas.\n<sprite=\"Buttons_PC\" name=\"PC_MouseRight\">, mevcut inşa çalışmasını iptal eder."
+LC_Tut_Xbox_RemoveAndBuild_8	"İnşa etmeye başlamak için bir inşaat noktası üzerinde<sprite=\"Buttons_XB1\" name=\"XB1_A\"> düğmesine bas. Yeni bir bileşeni yerleştirmek için imleci <sprite=\"Buttons_XB1\" name=\"XB1_L\"> ile istediğin yere götür ve tekrar <sprite=\"Buttons_XB1\" name=\"XB1_A\"> düğmesine bas.\n<sprite=\"Buttons_XB1\" name=\"XB1_B\">, mevcut inşa çalışmasını iptal eder."
+LC_Tut_Switch_RemoveAndBuild_8	"İnşa etmeye başlamak için bir inşaat noktası üzerinde<sprite=\"Buttons_Switch\" name=\"Switch_A\"> düğmesine bas. Yeni bir bileşeni yerleştirmek için imleci <sprite=\"Buttons_Switch\" name=\"Switch_LS\"> ile istediğin yere götür ve tekrar <sprite=\"Buttons_Switch\" name=\"Switch_A\"> düğmesine bas.\n<sprite=\"Buttons_Switch\" name=\"Switch_B\">, mevcut inşa çalışmasını iptal eder."
+LC_Tut_PS4_RemoveAndBuild_8	"İnşa etmeye başlamak için bir inşaat noktası üzerinde<sprite=\"Buttons_PS4\" name=\"PS4_Cross\"> düğmesine bas. Yeni bir bileşeni yerleştirmek için imleci <sprite=\"Buttons_PS4\" name=\"PS4_L\"> ile istediğin yere götür ve tekrar <sprite=\"Buttons_PS4\" name=\"PS4_Cross\"> düğmesine bas.\n<sprite=\"Buttons_PS4\" name=\"PS4_Circle\">, mevcut inşa çalışmasını iptal eder."
+LC_Tut_RemoveAndBuild_9	Test aracının gidebilmesi için köprüye hala bir yol yapmak gerekiyor.<t:3><t:1> Neyse ki, her Aperture Science Değiştirilebilir İskele Kalası bir yola ve ardından tekrar bir kalasa dönüştürülebilir.<t:7>
+LC_Tut_RemoveAndBuild_10	Üstteki yatay bileşeni bir yola dönüştür.
+LC_Tut_Mob_RemoveAndBuild_11	İnşa ettiğin herhangi bir bileşeni yola ve ardından geri dönüştürmek için ona dokunman yeterli.
+LC_Tut_Desk_RemoveAndBuild_11	"Bir bileşeni iskeleden yola dönüştürmek için onun üzerinde<sprite=\"Buttons_PC\" name=\"PC_MouseLeft\"> düğmesine bas."
+LC_Tut_Xbox_RemoveAndBuild_11	"İnşa ettiğin herhangi bir bileşeni bir yola dönüştürme veya tam tersi işlemi <sprite=\"Buttons_XB1\" name=\"XB1_A\"> düğmesi ile yapabilirsin."
+LC_Tut_Switch_RemoveAndBuild_11	"İnşa ettiğin herhangi bir bileşeni bir yola dönüştürme veya tam tersi işlemi <sprite=\"Buttons_Switch\" name=\"Switch_A\"> düğmesi ile yapabilirsin."
+LC_Tut_PS4_RemoveAndBuild_11	"İnşa ettiğin herhangi bir bileşeni bir yola dönüştürme veya tam tersi işlemi <sprite=\"Buttons_PS4\" name=\"PS4_Cross\"> düğmesi ile yapabilirsin."
+LC_Tut_RemoveAndBuild_12	"Çok iyi.<t:1><t:0.5>\nTest etmek için bir test aracını köprü üzerinden geçir.<t:1.5>"
+LC_Tut_RemoveAndBuild_12a	"Çok iyi.<t:1><t:0.5>\nKöprünü test etmek için simülasyonu başlat.<t:1.5>"
+LC_Tut_RemoveAndBuild_12b	Son derece sabit görünüyor. Artık bir test aracı gönderebilirsin.<t:3>
+LC_Tut_Xbox_RemoveAndBuild_13	"Malzemeler kontrol cihazı üzerindeki <sprite=\"Buttons_XB1\" name=\"XB1_DPad_Up\"> ve <sprite=\"Buttons_XB1\" name=\"XB1_DPad_Down\"> ile seçilebilir."
+LC_Tut_PS4_RemoveAndBuild_13	"Malzemeler kontrol cihazı üzerindeki <sprite=\"Buttons_PS4\" name=\"PS4_DPad_Up\"> ve <sprite=\"Buttons_PS4\" name=\"PS4_DPad_Down\"> ile seçilebilir."
+LC_Tut_Switch_RemoveAndBuild_13	"Malzemeler sol Joy-Con üzerindeki <sprite=\"Buttons_Switch\" name=\"Switch_DPad_Up\"> ve <sprite=\"Buttons_Switch\" name=\"Switch_DPad_Down\"> ile seçilebilir."
+LC_Tut_Xbox_RemoveAndBuild_14	"Bir aracı çalıştırmak için <sprite=\"Buttons_XB1\" name=\"XB1_DPad_Left\"> düğmesini kullan."
+LC_Tut_PS4_RemoveAndBuild_14	"Bir aracı çalıştırmak için <sprite=\"Buttons_PS4\" name=\"PS4_DPad_Left\"> düğmesini kullan."
+LC_Tut_Switch_RemoveAndBuild_14	"Bir aracı çalıştırmak için <sprite=\"Buttons_Switch\" name=\"Switch_DPad_Left\"> düğmesini kullan."
+LC_Tut_ChangeRamps_00	2. Test Odası'na hoş geldin.<t:1.5><t:1>
+LC_Tut_ChangeRamps_0	Başarısız olman halinde personel fotoğrafın, araç sürücüsü Ölüm Sebebi formuna eklenecek.<t:6>
+LC_Tut_ChangeRamps_1	Engelleri aşmak için köprünü çoğu zaman yukarı veya aşağı doğru inşa etmen gerekecek.<t:5>
+LC_Tut_ChangeRamps_2	Bu yol yukarı çıkıyor, ama araçlar için uygun değil. Ancak, bu bileşenleri yok etmek yerine onların yerlerini değiştireceğiz.<t:10>
+LC_Tut_ChangeRamps_3	Mevcut yolu noktalı çizgiye taşı.
+LC_Tut_Mob_ChangeRamps_4	Taşıma modu devreye girene kadar parmağını sarı bir eklem yeri üzerinde tut. Sonra eklem yerini yeni bir noktaya sürükle.
+LC_Tut_Desk_ChangeRamps_4	"Taşıma modu devreye girene kadar <sprite=\"Buttons_PC\" name=\"PC_MouseLeft\"> tuşunu sarı bir eklem yeri üzerinde tut. Sonra eklem yerini yeni bir noktaya sürükle."
+LC_Tut_Xbox_ChangeRamps_4	"Taşıma modu devreye girene kadar <sprite=\"Buttons_XB1\" name=\"XB1_X\"> düğmesini sarı bir eklem yeri üzerinde tut. Sonra eklem yerini yeni bir noktaya sürükle."
+LC_Tut_Switch_ChangeRamps_4	"Taşıma modu devreye girene kadar <sprite=\"Buttons_Switch\" name=\"Switch_X\"> düğmesini sarı bir eklem yeri üzerinde tut. Sonra eklem yerini yeni bir noktaya sürükle."
+LC_Tut_PS4_ChangeRamps_4	"Taşıma modu devreye girene kadar <sprite=\"Buttons_PS4\" name=\"PS4_Quad\"> düğmesini sarı bir eklem yeri üzerinde tut. Sonra eklem yerini yeni bir noktaya sürükle."
+LC_Tut_ChangeRamps_5	Çok iyi.<t:1><t:0.2> Şimdi alta destekleri inşa et.<t:1>
+LC_Tut_ChangeRamps_6	Mükemmel. İlk köprü hazır. Şimdi de engeli aşıp çıkışa ulaştıracak bir araç rampası inşa edeceğiz.<t:7>
+LC_Tut_ChangeRamps_6a	Rampa için kalasları çizgilerle gösterildiği gibi inşa et.
+LC_Tut_ChangeRamps_7	Şimdi, test aracının üzerinden geçmesi için kalas bileşenlerini bir yola dönüştür.
+LC_Tut_MenuButton	Kısa bir ara: Lütfen bu menüde faydalı ek özellikler olduğunu unutma.
+LC_Tut_MenuButtonAlt	Özür dileriz, önemli bir mesaj için bölüyoruz: Bu menü faydalı ek özellikler içeriyor.
+LC_Tut_MenuButtonAlt2	Özür dileriz, önemsiz bir mesaj için bölüyoruz: Bu bir menüdür.
+LC_Tut_MenuButtonAlt3	Test çalışmasını bu noktada kısmen önemli bir mesaj için askıya alıyoruz: Bu bir menüdür.
+LC_Tut_PortalIntro_1	Lütfen bu Test Odası yerleşim düzenini incele ve aracın hedefe ulaşmasının mümkün olmadığına dikkat et.<t:6>
+LC_Tut_PortalIntro_2	Test Odası bu görev için bir Aperture Science Kuantum Tüneli veya daha yaygın olan ismiyle bir portal kullanılarak geliştirilecek.<t:7>
+LC_Tut_PortalIntro_3	Portal açılıyor... <t:1.5> üç... <t:0.5><t:0.5>iki... <t:0.5><t:0.5>bir...<t:0.5>
+LC_Tut_PortalIntro_4	Portalın bir tarafından giren tüm araçlar anında portalın diğer tarafından aynı hızla çıkarlar.<t:5>
+LC_Tut_PortalIntro_5	Kaydettiğin hızlı ilerleme gösterdi ki, uzman sürücülerimiz portalların içinde yol alma işleminin karmaşık fiziksel kurallarıyla uğraşırken en basit personeller bile bir köprü yapabiliyorlar.<t:10>
+LC_Tut_PortalIntro_6	Lütfen unutma: Değerli test cihazlarını korumak için, araç sürücülerinin oda zeminindeki ölümcül sıvıya temas etmelerine izin verilmemektedir.<t:9>
+LC_Tut_PortalIntro_7	Başarısız olman halinde personel fotoğrafın, araç sürücüsü Ölüm Sebebi formuna eklenecek.<t:6>
+LC_Tut_CableIntro_1	Önce, bileşenleri çizgilere göre inşa ederek ve ardından bunları yola dönüştürerek köprü için bir yol yap.
+LC_Tut_CableIntro_2	Yapılan test çalışmasına göre bu sıradaki testte köprüyü alttan destekleyemeyeceğiz. Ama köprüyü Aperture Science Çok Amaçlı Süper Kablolar ile asmak için yukarıdan İnşaat Bağlantı Noktaları kullanabiliriz.<t:14>
+LC_Tut_CableIntro_3	Çok Amaçlı Süper Kablolar sıkıca sarılmış duş perdelerinden oluşmaktadırlar ve uzun mesafelere gerilebilirler.<t:6>
+LC_Tut_CableIntro_3Alt	Çok Amaçlı Süper Kablolar birbirlerine sıkıca sarılmış, geri dönüştürülmüş duş perdelerinden oluşmaktadırlar. Uzun mesafelere gerilebilirler.<t:8>
+LC_Tut_CableIntro_4	Malzeme olarak Çok Amaçlı Süper Kablo seç ve yolu askı noktalarına bağla.
+LC_Tut_CableIntro_5	"Mükemmel. Şimdi aracı portaldan geçir.<t:3><t:1> \nEndişelenme. Bu boyut içi kapıların koruyucu personel için tamamen güvenli oldukları kanıtlanmıştır.<t:5>"
+LC_Tut_Budget	Her odanın toplam maliyeti gerçek zamanlı olarak hesaplanır ve keyfi istatistik analizi için kaydedilir.
+LC_Tut_Undo	Geri Al düğmesi ile son inşaat işlemini geri alabilirsin.
+LC_Tut_SeveralPortals_0	Aynı anda birden fazla portal çifti bulunabilir.<t:3>
+LC_Tut_SeveralPortals_1	Bunlardan biri ölümcül bir Lazer Sahası'na çıkmaktadır. Temastan kaçınılması için kırmızı renge sahiptir.<t:6>
+LC_Tut_SeveralPortals_2	Yüksek bir kalp atış hızı ve galvanik deri tepkisi algılıyorum. Sanıyorum ki, hangi portalın araçları ölümcül bir çıkmaza sürükleyeceğini anlayamadığın için yaşıyorsun bunu.<t:10>
+LC_Tut_SeveralPortals_3	Görüş yeteneği eksikliğini telafi etmek için portalın spektral ışınımını değiştireceğiz.<t:6>
+LC_Tut_SeveralPortals_4	Bundan sonra, birbirine bağlı portallar daima aynı renge sahip olacaklar.<t:4>
+LC_Tut_Arcs_1	Bu Test Odası'nın sadece yolun başında ve sonunda İnşaat Bağlantı Noktaları bulunuyor.<t:4>
+LC_Tut_Arcs_2	Böyle durumlarda, bir üçgen şeklinde yerleştirilmiş kemer iskeleler ile köprülerin kendi kendilerini desteklemeleri gerekir.<t:6>
+LC_Tut_Arcs_3	Yapısal referans oluşturması için iki köprü verdik. Kalan boşlukları birbirlerine bağlamak için bu tasarımı kopyalamak çok zor olmayacaktır.<t:8>
+LC_Tut_Crossing_1	"Birden fazla portal bulunduğunda araç yolları kesişebilir.<t:3><t:1> \nAma lütfen panik yapma, çünkü bu, sürücülerin dikkatini dağıtabilir.<t:3>"
+LC_Tut_Crossing_2	Zengin aday yeteneklerini telafi etmek için Güçlendirme Merkezi'nin tüm adaylara, özellikle de sana, faydalı tavsiyeler vermesi gerekmektedir.<t:9>
+LC_Tut_Crossing_3	Bu Test Odası için belirlenen tavsiye şudur: <t:3><t:0.5>[wwwwbzzzlllzzzzzt]<t:1><t:0.1>...in çıkabilmesi için bir <t:0.3><t:0.1>[bzzwllzzzsrrllwwwwt]<t:1><t:0.1> inşa et. Çok basit.<t:0.5>
+LC_Tut_ButtonIntro_1	Lütfen çıkıştan önceki kapalı kapıya dikkat et.<t:1.5>
+LC_Tut_ButtonIntro_2	Çıkıştan önceki kapıyı açmak için en az bir aracın Aperture Science Tek Tuşlu Süper Düğme'ye basması gerekir.<t:6>
+LC_Tut_FlingSpeed_1	"Araçların bir portaldan geçerken aynı hızla ilerleyeceklerini unutma.<t:4><t:0.5> \nGördüğün gibi, ortadaki duvarı aşabilmesi için epey süratli olması gerekecek.<t:5>"
+LC_Tut_TriangleSuppport_1	Güçlendirme Merkezi, test kaydında bir artı işareti olabilmesi için tüm aracın çıkışa ulaşması gerektiğini hatırlatmak ister.<t:7>
+LC_Tut_TriangleSuppport_2	Diğer kritik test etme bilgileri için lütfen artık senin kullanımına sunulan ve geçerliliği başlayan 'En İyi Uygulamalar Kitaplığı'na bak.<t:8>
+LC_Tut_VertDropAndSpit_1	Lütfen bu Test Odası çıkışının tepeye çok yakın olduğunu unutma.<t:4>
+LC_Tut_VertDropAndSpit_2	Araç sürücülerinin bu testi senin adına tamamlayabilmeleri için hıza ve kesişen yollara ihtiyaçları olacak.<t:4>
+LC_Tut_VertDropAndSpit_3	Sana güveniyoruz aday 9723.<t:3><t:0.5> Eğer aday 9723 sen değilsen, lütfen testten 274 gün önce bir Aralıklı Cesaretlendirme Talebi Formu gönder.<t:7.5>
+LC_Tut_CubeAndContactButton_1	Bu Oda'da test edilmemiş test cihazları olacak. Önceki testlerde görüldü ki, karmaşıklığın artması nedeniyle daha çok endişe hisseden adaylar bu seslerle rahatlıyorlar...<t:10>
+LC_Tut_CubeAndContactButton_2	"Biyolojik geri bildirim ekranından gördüğümüz kadarıyla ruh halin neredeyse kabul edilebilir sınırlara ulaşmış.<t:5><t:3> \nGüzel.<t:0.3>"
+LC_Tut_CubeAndContactButton_3	Kapıyı açık tutmak için kırmızı Ağır Hizmet Süper Çarpışma Süper Düğmesi'ne sürekli basmak gerekir.<t:5>
+LC_Tut_CubeAndContactButton_4	Bir Hayati Cihaz Havalandırması da bulunmaktadır. Etkinleştirildiğinde bir Ağırlıklı Depolama Küpü bırakır.<t:6>
+LC_Tut_CubeAndContactButton_4Alt	Bir Hayati Cihaz Havalandırması da bulunmaktadır. Etkinleştirildiğinde bir Ağırlıklı Eşlik Küpü bırakır.<t:6>
+LC_Tut_CubeAndContactButton_5	Eğer dikkat ettiysen çözümü açıkça görebiliyorsundur.<t:3><t:1> Eğer ihtiyacın olursa ... <t:1><t:1> bol şans!<t:0.6>
+LC_Tut_TurretIntro_1	"Tebrikler! Herkesin tahmin ettiğinden daha ileri gittin.<t:4><t:1.5> \nNe yazık ki, test koşulları daha az tehlikeli bir hale gelmeyecek.<t:4><t:1> \nBu testte Nöbetçi Taretler bulunuyor.<t:3>"
+LC_Tut_TurretIntro_2	Taretin Hedef Alma Lazeri tarafından görülen araçlar diskalifiye edilmek üzere işaretlenecek ve ardından hızlıca parçalarına ayrılacaklar.<t:6>
+LC_Tut_EmancipationGridIntro	"Bu odadaki mavi çizgiler, Aperture Science Malzeme Emansipasyon Izgaraları'dır.<t:5><t:1> \nBunlar, test araçları dışındaki tüm Aperture Science test cihazlarını yok edecekler.<t:6>"
+LC_Tut_AFPIntro_1	"Bu testte Aperture Science Fırlatma Plakası bulunmaktadır.<t:2.5><t:2>\nBu, adayların test araçlarını havaya fırlatma dürtüsüne karşı koyup koyamayacaklarını test etmek için kullanıldı.<t:4.5>"
+LC_Tut_AFPIntro_2	"Sonuç: Adayların %142'si karşı koyamadılar. <t:4><t:0.5>\nFazlalık %42, araçlara ek olarak test cihazlarını da havaya fırlatan uyanık adaylardan oluşuyor.<t:8>"
+LC_Tut_AFPIntro_3	Neyse ki araç sürücüleri, test cihazlarının bombardımanı altında bir yolda ilerlemeye benzemeyen aşırı zorlayıcı koşullar altında başarılı olmak için yolda kalma eğitimi alıyorlar.<t:10>
+LC_Tut_PropGelIntro_1	Bu test için araçların, güvenlik kısıtlayıcılarının izin verdiğinden daha hızlı gitmeleri gerekiyor.<t:4>
+LC_Tut_PropGelIntro_2	Turuncu Aperture Science İtici Güç Jeli, test aracının süratini üç katına çıkarabilmektedir. <t:6><t:2.0>Bir yan etki olarak, araç sürücüsünün aldığı keyfi de az miktarda artırmaktadır.<t:4>
+LC_Tut_HintRedirection	Mevcut inşaat, doğrudan erişilebilir olmayan ankor noktalarını kullanan yön değiştirme prensibinin nasıl uygulanacağını gösteren bir örnektir.<t:7>
+LC_Tut_GalleryBestPractice	Diğer faydalı prensipleri incelemen için sana sınırsız bir 'En İyi Uygulamalar Kitaplığı' erişimi verdiğimizi unutma.<t:8>
+LC_Tut_RepGelIntro_1	Bu testte mavi Aperture Science Geri İtici Jel, üzerine düşen tüm nesneleri geri fırlatacak.<t:6>
+LC_Tut_RepGelIntro_1a	Bir nesne ne kadar çok düşerse o kadar çok seker.
+LC_Tut_RepGelIntro_2	Lütfen araç sürücülerinin yaşayacakları tüm eğlenceye şahit ol.<t:3><t:2> Muhteşem.<t:0.5>
+LC_Tut_PelletsIntro_0	Bu test odasında, Aperture Science Yüksek Enerji Topları'nı harekete geçirecek araçlar bulunuyor.<t:5>
+LC_Tut_PelletsIntro_1	Gerekli bir test protokolü nedeniyle, Aperture Science Yüksek Enerji Topları'nın test araçları üzerinde, tamamen buharlaşma gibi mekanik arızalar yaratabileceğini belirtmemiz gerekiyor.<t:10>
+LC_Tut_PelletsIntro_2	Yol yapılan Değiştirilebilir Kalaslar'ın dayanıklılık özellikleri nedeniyle Yüksek Enerji Topları bunların yüzeyinden sekerler.<t:7>
+LC_Tut_PelletsIntro_3	Bir Enerji Topu onun bağlı Enerji Topu Yakalayıcısı içine girdiğinde bazı test cihazları devreye girebilirler.<t:6>
+LC_Tut_CubeShield_old	Ağırlıklı Depolama Küpü, Taret ateşine karşı portatif bir savunma olarak da kullanılabilir.<t:4>
+LC_Tut_CubeShield	Ağırlıklı Eşlik Küpü, Taret ateşine karşı portatif bir savunma olarak da kullanılabilir.<t:4>
+	Hayati Cihaz Havalandırması bir Ağırlıklı Eşlik Küpü verecek. Bu seni koruyacak.<t:5>
+LC_Tut_GalleryReminder_1	İlk kez, bu Test Odası'nın üst bölümünde tamamen serbest asılı bir köprü inşaatı gerekiyor.<t:7>
+LC_Tut_GalleryReminder_2	"Şimdi bu ilham verici sözleri aktarmamız gerekiyor: [\\\"Uninitialized Database\\\"] ... aynı şekilde, 'En İyi Uygulamalar Kitaplığı'nda etkili inşaat yöntemlerini araştırmakta utanılacak bir şey yoktur.<t:10>"
+LC_Gladcom_ImpossibleTest	"Güçlendirme Merkezi üzülerek belirtmektedir ki, sıradaki testin yapılması mümkün değildir.<t:2>\nBunu çözmek için hiçbir girişimde bulunma.<t:1.5>"
+LC_Gladcom_BreakAnnounce01	Güçlendirme Merkezi tüm adayların refahı için elinden geleni yapar. Pervane şapkalar ve askılar artık Eğlence Alanı'nda mevcut.<t:10>
+LC_Gladcom_BreakAnnounce02	"Sıradaki teste geçmek için lütfen tek ayak üstünde dururken şapkanın pervanesini döndür.<t:5><t:1>  Güvenlik amacıyla, biraz daha Güvenlik Kamerasına dön.<t:4><t:2> \n[QUIET CHUCKLE]<t:1> <t:0.5> \nEvet, işte böyle.<t:1>"
+LC_Gladcom_TestingCosts01	Güçlendirme Merkezi hatırlatmak istemektedir ki, tüm Test Odası maliyetleri aday tarafından karşılanacaktır.<t:6>
+LC_Gladcom_TestingCosts02	Nakit yetersizliği durumunda Güçlendirme Merkezi tüm adaylara, test cihazı park etme görevlileri olarak bir telafi işi sunmaktadır.<t:8><t:1> İsteğe bağlı tazminat ödemek için aile üyeleri test aracı temizliği hizmeti verebilirler.<t:5>
+LC_Gladcom_TestingCosts03	[TYPING SOUNDS] Telafi amaçlı kazançların kullanılarak...<t:3><t:0.5> [TYPING SOUNDS AND A DING]<t:1> ... giderlerin emeklilikten kısa bir süre önce ödenecek.<t:3.5>
+LC_Gladcom_DaughterToWork	Unutma: Aperture Science Kızını İşyerine Getir Günü, onu test cihazı slalom yarışına dahil etmek için mükemmel bir fırsattır.<t:3>
+LC_Gladcom_BlurredVision01	Bilgin olsun, bulanık görme herhangi bir test protokolünün parçası değildir, ama Aperture Science Değiştirilebilir Kalasları'nı yola dönüştürmenin istenmeyen bir yan etkisidir.<t:10>
+LC_Gladcom_BlurredVision02	Bu işlem sırasında havaya salınan parçacıklar, bazı ender durumlarda, gözlükleri, kontak lensleri ve kornayı aşındırabilir.<t:9>
+LC_Gladcom_CableAdvice	Sağlık ve hijyen protokolü için lütfen hiç fazla Çok Amaçlı Süper Kablo çözmeyin.<t:5>
+LC_Gladcom_BraveDrivers	Cesur araç sürücüleri neredeyse her testi tamamladılar. Test etme işlemi tamamlandığında onların erdemli fedakarlıkları unutulmayacak.<t:8>
+LC_Gladcom_TypeWriterMonkey	Tebrikler! Başarıların gösteriyor ki, sen gerçekten de 1000. daktilodaki 1000. maymunsun. Bunu kutlamak için, istediğin bir araç sürücüsünün elini sıkmana izin verilecek. Baş Koruyucu olarak yeniden atanman tamamlandı.
+LC_Office_Intro_But	Ama...
+LC_Office_Intro_Q01	Yani Aperture Science Araçla Engel Aşma Girişimi için Baş Koruyucu olarak yeniden atanmak istiyor musun?
+LC_Office_Intro_Q01_A1	Başka bir seçenek var mı?
+LC_Office_Intro_Q01_A1_Re	Evet, Fırın Denetmenliği ve hemen bugün başlayabilirsin!
+LC_Office_Intro_Q01_A2	Evet, bilim için!
+LC_Office_Intro_Q01_A2_Re	İşte aradığım ruh! Bizimkilerle aynı olduğu sürece prensiplerine hayranız.
+LC_Office_Intro_Q02	Protokol uyarınca seninle bir röportaj yapmam gerekiyor. Sadece bir soru olacak. Hazır mısın?
+LC_Office_Intro_Q02Alt	Gerekli röportaja başlamadan önce bir sorun var mı?
+LC_Office_Intro_Q02_A2	Bir saniye! Soru ne olacak?
+LC_Office_Intro_Q02_A2_Re	Soru... Dur bakalım, komiklik yapmaya mı çalışıyorsun sen!? Al o zaman sana komik bir soru: Sıcak bir havada vücut yere daha yavaş mı düşer? Dene ve bana dumanla bir işaret gönder.
+LC_Office_Intro_Q03	Sen bilirsin. Şimdi söyle bakalım, hayat sana limon verirse ne yaparsın?
+LC_Office_Intro_Q03Alt	Üzgünüm, ama protokol röportaj sırasında sorular sorulmasına izin vermiyor. Şimdi söyle bakalım, hayat sana limon verirse ne yaparsın?
+LC_Office_Intro_Q03_A1	Limonata yaparım!
+LC_Office_Intro_Q03_A1_Re	Güzel bir düşünce! Fırın turun bitince çok ferahlatıcı olur.
+LC_Office_Intro_Q03_A2	Hayatı limonları geri almaya zorlarım!
+LC_Office_Intro_Q03_A2_Re	Ailende hiç Johnsons var mı? Bizim ihtiyacımız olan Baş Koruyucu tutumu bu işte! Şimdi masana geri dön ve bizi gururlandır.
+LC_Office_Intro_Start01	İnşaat dergileri okuyup çok kendini salma. İşe koyulma vakti geldi.
+LC_Office_Intro_Start02	Güçlendirme Merkezi yönetmelikleri uyarınca tüm öğrencilerin bir dizi koruyucu yeterlilik testinden geçmesi gerekiyor. Endişelenme, bu deneme süresi boyunca maaş çeklerini güvenli bir şekilde muhafaza edeceğiz.
+LC_Office_Intro_Start03	Bu ilk odalar dizisi senin inşa ve kısaltma yeteneklerini test edecek. Hazır mısın?
+LC_Office_Intro_Start03Alt	Bu test odaları dizisi senin inşa ve kısaltma yeteneklerini test edecek. Altın Baş Koruyucu Şapkası'nı kazanmaya hazır mısın?
+LC_Office_AfterLvlPack01_01	Tebrikler, Öğrenci #9723! İlk test aşamasını tamamlayarak teste devam etme hakkı kazandın.
+LC_Office_AfterLvlPack01_02	Teste devam etmezsen bir sonraki yarı yıllık yeniden atama aşamasına kadar kovulacaksın.
+LC_Office_AfterLvlPack02_01	Tebrikler! Eski bir öğrenci Baş Koruyucu çırağı olarak artık yiyecek ve yapay güneş ışığı almaya hak kazandın.
+LC_Office_AfterLvlPack02_02	Ayrıca, devamlı test programımıza kaydedileceksin.
+LC_Office_AfterLvlPack03_01	Harika iş çıkardın! Göstermiş olduğun büyük çaba nedeniyle sana yeni Önemsizlik Ötesi rütbesini gururla takdim ediyoruz.
+LC_Office_AfterLvlPack03_02	Bu sana bazı kahve taşıma ve ayrıca ek test sorumlulukları veriyor.
+LC_Office_AfterLvlPack04_01	Tebrikler! Aperture Science Araçla Engel Aşma Girişimi'ne resmi olarak ön kabulün gerçekleşti.
+LC_Office_AfterLvlPack04_02	Kabul şartlarını karşılamak için aşağıdaki isteğe bağlı 10 odanın hepsini tamamla.
+LC_Office_AfterLvlPack05_01	Artık eksiksiz bir Baş Koruyucu adayı olarak kabul ediliyorsun!
+LC_Office_AfterLvlPack05_02	Bu ısrarında herhangi bir zihinsel hasarın etkisi olmadığından emin olmak için ilerlemeni bu son test dizisinde takip etmeyi sürdüreceğiz.
+LC_Office_AfterLvlPack06_01	Muhteşem! Tüm test planını tamamlayan ilk kişi oldun.
+LC_Office_AfterLvlPack06_02	Ulusal ve yerel yasal düzenlemeler uyarınca Aperture Science Araçla Engel Aşma Girişimi'nin artık bulunması gerekiyor.
+LC_Office_AfterLvlPack06_03	Başka Aperture çalışanları yeniden atanana kadar tek Baş Koruyucu olarak görevlerin: Baş Mimar, Yardımcı Mimar, Ustabaşı ve Niteliksiz İşçi...
+LC_Office_AfterLvlPack06_04	...Araç Sürücüsü, Araç Yardımcı Sürücüsü, Araç Sürücüsü ve onun ailesinin Psikoloji Terapisti, Araç Sürücüsü Tasfiyesi ve Kahve Taşıma Yetkilisi.
+LC_Office_AfterLvlPack06_05	TBD
+LC_BestPract_Triangles01	Üçgenler
+LC_BestPract_Triangles	"İnşaatlarını üçgenler kullanarak tamamla.\n\nBöylece sabit yapılara sahip olursun."
+LC_BestPract_Reinforce01	Baskıyı dağıtmak için şunları dene:
+LC_BestPract_Reinforce02	destek direkleri sayısını artır
+LC_BestPract_Reinforce03	kardeş destek direkleri
+LC_BestPract_Reinforce04	birkaç inşaat yöntemini birleştir
+LC_BestPract_ShallowAngles01	Sığ açılar verimli değildir.
+LC_BestPract_ShallowAngles02	Baskı inşaatı aşağı çekiyor, ama kablo inşaatı sadece yana çekiyor = inşaatı ayakta tutma konusunda çok az bir etkisi var.
+LC_BestPract_ShallowAngles03	Yeniden döşenen bir kablo inşaatı yer çekiminine karşı tutabilir.
+LC_BestPract_Arches01	Her kemer verimli değildir.
+LC_BestPract_Arches02	Eğer kemerler çok sığ veya çok dik olursa gerilim yeterince eşit şekilde dağılmaz.
+LC_BestPract_Arches03	Doğru açı, gerginliği iyi bir şekilde dağıtır.
+LC_BestPract_Arches04	Kemerli bir yol ek destek sağlar.
+LC_BestPract_PelletAngles01	Etki alanı ve yansıtma açıları
+LC_BestPract_PelletAngles02	Yüksek enerji toplarını yansıtmaya çalışırken etki alanının açısının yansıtma açısına eşit olduğunu unutma.
+LC_BestPract_SuspBridgePart1_Header	Asma Köprüler için İpuçları - 1. Bölüm
+LC_BestPract_SuspBridgePart2_Header	Asma Köprüler için İpuçları - 2. Bölüm
+LC_BestPract_SuspBridgePart1_01	"Bir asma köprü çok basit olabilir.\nBazen bunu farklı sebeplerle geliştirmen gerekir:"
+LC_BestPract_SuspBridgePart1_02	"Sabitliği, sertliği ve süspansiyonu artırmak için direkler ekle.\nBu, toplam ağırlığı da artırarak istenmeyen \nsavrulmaları azaltacak."
+LC_BestPract_SuspBridgePart1_03	Daha da yüksek bir katılık gerekiyorsa yolun altına kemerli yapılar ekle.
+LC_BestPract_SuspBridgePart2_01	Kemerleri, yolu herhangi bir süspansiyon oluşturmanın mümkün olmadığı yanlara doğru uzatmak için kullan.
+LC_BestPract_SuspBridgePart2_02	Köprü üzerindeki darbeyi azaltmak için aracın düşüş yüksekliğini kısa tutmaya çalış.
+LC_BestPract_Stiffening_Header	Salınımlı köprüler
+LC_BestPract_Stiffening01	"Basit inşaatlar pek çok durumda yeterli olabilir.\nAma, üzerlerinden araçlar geçmeye başladığında güçlü bir şekilde zıplamaya başlayabilirler."
+LC_BestPract_Stiffening02	Bu durum, konvoyda bulunan aşağıdaki aracın hareketlerinin büyük ölçüde değişmesine neden olabilir.
+LC_BestPract_Stiffening03	Daha fazla direk ekleme ve tersten destekleme sana zıplamayı azaltma ve konvoydaki tüm araçlar için daha tutarlı koşullar oluşturma imkanı verir.
+LC_GamersNetwork_Logout_Warning	{GamersNetworkName} hesabından çık?
+LC_Tut_Simulate_Reminder	"Unutma: \nTest modu sana köprülerini araçlar olmadan test etme imkanı sunar ve ayrıca otomatik olarak tetiklenen küplere ve toplara giden yolları gösterir."
+LC_General_Open	Aç
+	
+LC_Start_Menu_AdjustScreen	Görüntüyü Ayarla
+LC_AdjustScreen_Cancel	İptal
+LC_AdjustScreen_Move	Pencereyi Hareket Ettir
+LC_AdjustScreen_Resize	Pencereyi Yeniden Boyutlandır
+LC_AdjustScreen_Save	Kaydet
+LC_AdjustScreen_Description	Yeşil çizgileri ekran sınırlarına uyacak şekilde pencereyi ayarla.
+LC_NoUserLoggedInMessage	Hiçbir Xbox oyuncusu oturum açmadı. Kayıtlı oyunun kaybolacak!
+	
+LC_Tut_Xbox_Track_Reminder	"Unutma:\nİnşa ettiğin herhangi bir bileşeni bir yola dönüştürme veya tam tersi işlemi tek bir hareketle yapabilirsin.\n<color=#7faeff>Oyun Kumandası: A</color>"
+LC_Tut_Xbox_AccelerateCursor	"İpucu:\nİnşaat modunda imleci hızlandırmak için <color=#7faeff>sağ üst tuşu</color> basılı tut."
+LC_SavegameSlot_SR	Son Tek Tur
+LC_SavegameSlot_MR	Son Konvoy Turu
+LC_SavegameSlot_Token	Yuva {0}
+LC_Controls_MoveCam	Kamerayı hareket ettir
+LC_Controls_MoveCursor	İmleci hareket ettir
+LC_Controls_Zoom	Yakınlaştırma
+LC_Controls_ZoomIn	Yakınlaştır
+LC_Controls_ZoomOut	Uzaklaştır
+LC_Controls_Undo	Geri Al
+LC_Controls_PrecisionMode	Hassasiyet modu
+LC_Controls_Build	"İnşa\nGeçiş: Yol <> Direk"
+LC_Controls_MoveJoint	Bağlantı noktasını hareket ettir
+LC_Controls_Simulate	İnşaatı test et
+LC_Controls_Cancel	İnşaatı iptal et
+LC_Controls_Delete	Sil
+LC_Controls_Menu	Menü
+LC_Controls_AutoStrut	Tüm destekleri inşa et
+LC_Controls_MatPanel	İskele Kalasları
+LC_Controls_MatCable	Süper Kablo
+LC_Controls_Start1	Aracı çalıştır
+LC_Controls_Start2	Konvoy çalıştır
+LC_Controls_MatToggle	Malzemeyi değiştir
+LC_Controls_BuildMode	İnşaat modu
+LC_Controls_Save	Köprüyü kaydet
+LC_Controls_Load	Köprüyü yükle
+LC_Controls_Pause	Araçlar duraklat
+LC_Controls_MoveCamTouch	Kamerayı oynatmak için bir yere sürükle
+LC_Controls_ZoomTouch	Yakınlaştırmak için sıkıştır
+LC_Controls_BuildTouch	İnşa etmek için ankor veya bağlantı noktasından sürükle
+LC_Controls_MoveJointTouch	Bir bağlantı noktasını oynatmak için dokun, bekle ve sürükle
+LC_Controls_ConvertTouch	Yol ile direk arasında geçiş yapmak için dokun
+LC_Controls_DeleteTouch	Bir ögeyi silmek için ona iki kez dokun
+LC_LevelPack01	Merhaba aday 9723!
+LC_LevelPack02	Bir ızgara planı
+LC_LevelPack03	Acı verici deneyimler
+LC_LevelPack04	Günün Çalışanı
+LC_LevelPack05	Etkinliğin ufku
+LC_LevelPack06	Dünyanın sonu
+LC_LevelTitle01	İlk köprüm
+LC_LevelTitle02	Yokuşlar
+LC_LevelTitle03	Kuantum Tüneli
+LC_LevelTitle04	Boyalar
+LC_LevelTitle05	Kemerler
+LC_LevelTitle06	Kesitler
+LC_LevelTitle07	Saplama
+LC_LevelTitle08	Dikey Düşüş
+LC_LevelTitle09	Süper Çarpışma Süper Düğmesi
+LC_LevelTitle10	Küp Sapması
+LC_LevelTitle11	Ateş Altında
+LC_LevelTitle12	Yoğun Ateş Altında
+LC_LevelTitle13	Bir kartal gibi uç
+LC_LevelTitle14	Küp Taret'e Karşı
+LC_LevelTitle15	İtici Güç Jeli 01
+LC_LevelTitle16	İtici Güç Jeli 02
+LC_LevelTitle17	Zıpla yavrum!
+LC_LevelTitle18	Öldürmek için zıpla
+LC_LevelTitle19	Yüksek Enerji Topu 01
+LC_LevelTitle20	Yüksek Enerji Topu 02
+LC_LevelTitle21	İleri Geri
+LC_LevelTitle22	Bir Hız Tutkusu
+LC_LevelTitle23	Sarmal
+LC_LevelTitle24	Sadık Yol Arkadaşı
+LC_LevelTitle25	Çift Yönlü Trafik
+LC_LevelTitle26	Uçuş koordinatlarını değiştir!
+LC_LevelTitle27	Top ileri!
+LC_LevelTitle28	Kafalarına
+LC_LevelTitle29	Zıpla, zıpla!
+LC_LevelTitle30	Hava Gösterisi
+LC_LevelTitle31	Geri Sar
+LC_LevelTitle32	Kaçınma Ateşi
+LC_LevelTitle33	İlk buluşmada öpüşme
+LC_LevelTitle34	Dikey Sınırlar
+LC_LevelTitle35	Küp Zıplaması
+LC_LevelTitle36	Eşsiz Değil
+LC_LevelTitle37	Tam Gaz
+LC_LevelTitle38	Taret Merdiveni
+LC_LevelTitle39	Hava Tenisi
+LC_LevelTitle40	Zamanlama her şeydir
+LC_LevelTitle41	Zıplama Arkadaşları
+LC_LevelTitle42	Küp Çinkosu
+LC_LevelTitle43	Portal Bolluğu
+LC_LevelTitle44	Küp Sanatçısı
+LC_LevelTitle45	Top Fırtınası
+LC_LevelTitle46	Örgü
+LC_LevelTitle47	Zıplazıplazıpla
+LC_LevelTitle48	Kontrol Merkezi
+LC_LevelTitle49	Taret Kasabası
+LC_LevelTitle50	Evden Çok Uzakta
+LC_LevelTitle51	Dengeli
+LC_LevelTitle52	Geriye
+LC_LevelTitle53	Geçitler!
+LC_LevelTitle54	Beynini eğit
+LC_LevelTitle55	Zıplayan Küpler
+LC_LevelTitle56	İnanılmaz Düğmeler
+LC_LevelTitle57	Altı Hikaye Hikayesi
+LC_LevelTitle58	Paranın Küçük Bir Karşılığı
+LC_LevelTitle59	Tam Tur Devam
+LC_LevelTitle60	Beyin Nakli
+LC_LevelTitle61	Zıplama Cehennemi
+LC_LevelTitle62	Küp Çinkosu 2
+LC_LevelTitle63	Top Yolculuğu
+LC_LevelTitle64	Kesit Şehri
+LC_TheLie	Şapka diye bir şey yok.
+LC_TheLieAlt	Kitaplık diye bir şey yok.
+LC_TheLieAlt2	
+LC_TheLieAlt3	
+LC_Tut_SimulateButton01	İnşaatlarının sabitliğini araçlar olmadan test etmek için Test Modu'nu kullan.
+LC_Tut_SimulateButton02	İpucu: Test modu sana köprülerini araçlar olmadan test etme imkanı sunar ve ayrıca otomatik olarak tetiklenen küplere ve toplara giden yolları gösterir.
+LC_Tut_SimulateButton03	İpucu: Test modu ayrıca, otomatik olarak tetiklenen küplere ve toplara giden yolları simüle eder.
+LC_Tut_SimulateButton04	Araçlar tarafından tetiklenmeyen küpler ve toplar Test Modu içinde de görünürler.
+LC_Tut_PauseButton	Duraklatma düğmesi sana, simülasyon sırasında inşaatının çökme analizini yapma imkanı sunar.
+LC_TheLieAlt4	Altın Paspas Diye Bir Şey Yok
+LC_LevelTitle45Alt	Küpleri Rahat Bırak
+LC_LevelTitle47Alt	Arabaları Rahat Bırak
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

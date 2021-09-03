@@ -1,0 +1,73 @@
+<clr:250,231,181>Sunucu: 30 saniye kadar bekleyebilirsiniz ancak ondan sonra an itibarıyla ısı değiştirme biriminden ayrı olan termal reaktör patlayacaktır. Uyarı kornası çalındı.
+<clr:250,231,181>Sunucu: Tekrar, acele etmeyin. On beş saniye. On beş saniyelik korna uygulandı.
+<clr:250,231,181>Sunucu: Kalp atış hızında artış tespit edildi. Rahatlatan okyanus sesleri kornası çalınmaya başlandı.
+<clr:250,231,181>Sunucu: Güzel. Kirlenmiş cep evren kül haline getirildi.
+<clr:250,231,181>Sunucu: Kirlenmiş cep evren acil durum protokolünü başlatmak için çekmeceyi kapatın.
+<clr:250,231,181>Sunucu: Lütfen çekmeceyi kapatın.
+<clr:250,231,181>Sunucu: Çekmeceyi kapatın.
+<clr:250,231,181>Sunucu: Çekmeceyi kapatın.
+<clr:250,231,181>Sunucu: Bu tasarımsal hologramdan da görebileceğiniz gibi bütün Aperture marka robotları, en temel ileri düzey elektromekanik mühendislik bilgisine sahip herhangi biri tarafından bile tamir edilebilir.
+<clr:250,231,181>Sunucu: Bu birimin tamirine başlamak için çok amaçlı aracınızı birimin suratına yerleştirin ve mümkün olan en kuvvetli biçimde çekiniz.
+<clr:250,231,181>Sunucu: Çok amaçlı aracınızı robotun koruyucu çerçevesinde kullanın.
+<clr:250,231,181>Sunucu: Robootun koruyucu çerçevesini çekin.
+<clr:250,231,181>Sunucu: Lütfen robotun koruyucu çerçevesini çekin.
+<clr:250,231,181>Sunucu: Bir insana mekaniksel bir çığlık gibi gelen bir ses duyabilirsiniz ama içiniz rahat olsun: robotlar acı hissederler ancak bunu ifade edemezler.
+<clr:250,231,181>Sunucu: Lütfen çekmeye devam edin.
+<clr:250,231,181>Sunucu: Koruyucu çerçeveyi tamamen genişletin.
+<clr:250,231,181>Sunucu: Lütfen koruyucu çerçeveyi tamamen genişletin.
+<clr:250,231,181>Sunucu: Güzel. Sorumluluklar listenizdeki bütün sorumluluklar silindi. Çok yakında çekirdek erimesi gerçekleşecek. Gözetmen uyarıldı.
+<clr:250,231,181>Sunucu: Tamir istasyonunuzda bir dolap dolusu çekmece var. Lütfen dolabı bulun ve bir çekmeceyi açın.
+<clr:250,231,181>Sunucu: Lütfen bir çekmece açın.
+<clr:250,231,181>Sunucu: Bir çekmece açın.
+<clr:250,231,181>Sunucu: Bir çekmece bulun ve açın.
+<clr:250,231,181>Sunucu: Bir çekmeceyi sonuna kadar çekin.
+<clr:250,231,181>Sunucu: Güzel. Şimdi çok amaçlı aracınızdaki düğmeye basın.
+<clr:250,231,181>Sunucu: Güzel. Şimdi baskın elinizdeki çok amaçlı aracınız üzerindeki düğmeye basın.
+<clr:250,231,181>Sunucu: Lütfen çok amaçlı aracınızdaki düğmeye basın.
+<clr:250,231,181>Sunucu: Lütfen düğmeye basın.
+<clr:250,231,181>Sunucu: Çifte Aperture Prostetik Çok Amaçlı Aracı tutuyorsunuz. Lütfen bunları çok amaçlı araç şarj etme istasyonunda şarj ediniz.
+<clr:250,231,181>Sunucu: Lütfen şarj istasyonunun yerini belirleyin ve çok amaçlı araçlarınızı şarj edin.
+<clr:250,231,181>Sunucu: Çok amaçlı araçlarınızı şarj istasyonunda şarj edin.
+<clr:250,231,181>Sunucu: Güzel. Çok amaçlı araçlarınız tamamıyla radyasyona maruz kalmış. Lütfen şu an için radyasyon tulumunuzu çıkartın.
+<clr:250,231,181>Sunucu: Giysi tespit edilmedi. İyi.
+<clr:250,231,181>Sunucu: Lütfen Aperture Bilim Prostetik Çok Amaçlı Aracınızı seçin.
+<clr:250,231,181>Sunucu: Lütfen çok amaçlı aracınızı elinize alın.
+<clr:250,231,181>Sunucu: Çok amaçlı aracınızı elinize alın.
+<clr:250,231,181>Sunucu: Çifte Aperture Prostetik Çok Amaçlı Aracı tutuyorsunuz. Lütfen baskın elinizi kaldırın.
+<clr:250,231,181>Sunucu: Lütfen baskın elinizi kaldırın.
+<clr:250,231,181>Sunucu: Yardım edilen: bir.
+<clr:250,231,181>Sunucu: Çekmeceleri açmak sorumluluklar listenizden silindi. Lütfen servis bölümü kapısı kolunu bulun ve çekin.
+<clr:250,231,181>Sunucu: Lütfen kolu bulun ve çekin.
+<clr:250,231,181>Sunucu: Kolu bulun ve çekin.
+<clr:250,231,181>Sunucu: Kolu çekmek sorumluluklar listenize eklendi. Lütfen kolu çekin.
+<clr:250,231,181>Sunucu: Kolu bulun ve çekin.
+<clr:250,231,181>Sunucu: Güzel. Lütfen 'Robot Tamiri' işaretli butonu bulun ve basın.
+<clr:250,231,181>Sunucu: Bulun ve düğmeye basın.
+<clr:250,231,181>Sunucu: Lütfen bulun ve düğmeye basın.
+<clr:250,231,181>Sunucu: "Robot Tamiri" düğmesine basın.
+<clr:250,231,181>Sunucu: 'Robot Tamiri' işaretli düğmeye basın.
+<clr:250,231,181>Sunucu: Tamir istasyonu geri dönüştürülmesi başlatıldı. Güvenliğiniz için lütfen bu istasyonu hemen boşaltın.
+<clr:250,231,181>Sunucu: Tamir istasyonu geri dönüşümü devam ediyor.
+<clr:250,231,181>Sunucu: Tamir istasyonu geri dönüşüm tamamlandı.
+<clr:250,231,181>Sunucu: Güzel. İkinci adım: Akım akışı motoru D için çapı 35 numara olan yarım inçlik zincir dişlisini bulun ve uygun çizgisel devindiriciyle olan bağlantısını kesin; TABİİ elektrostatik reaktörü, anotlanmış çok açılı servo bağlantısı 733-E'den ayrılmış VE ANCAK oksidasyon kapakçıkları A, C, F ve H1 dâhil ANCAK H3 hariç, türbinli pompanın egzoz borusu C'nin tahliye borusuna asimetrik vaziyetteyse.
+<clr:250,231,181>Sunucu: İyi. Şimdi çekmeceyi kapat ve doğru çekmeceyi aç.
+<clr:250,231,181>Sunucu: Lütfen doğru çekmeceyi açın.
+<clr:250,231,181>Sunucu: Doğru çekmeceyi açın.
+<clr:250,231,181>Sunucu: Doğru çekmeceyi bulun ve açın.
+<clr:250,231,181>Sunucu: Katıldığınız için teşekkürler.
+<clr:250,231,181>Sunucu: Güzel. Artık iki tane yanlış çekmece ile pratik yapmış oldunuz. Lütfen doğru çekmeceyi açın.
+<clr:250,231,181>Sunucu: Güzel. Oryantasyonunda açıklandığı gibi, elbette hiçbir zaman doğrudan çekmecenin içine bakmamalısın.
+<clr:250,231,181>Sunucu: Oda sensörleri, şu anda direkt olarak çekmeceye baktığınızı gösteriyor. Bir Aperture Science cep evrenine müdahale etmiş bulundunuz. Artık onların tanrısısınız.
+<clr:250,231,181>Sunucu: Lütfen doğru çekmeceyi açın.
+<clr:250,231,181>Sunucu: Doğru çekmeceyi açın.
+<clr:250,231,181>Sunucu: Merhaba tamir yardımcısı, Robot Rehabilitasyon ve Sağlık Merkezine hoş geldiniz. Kayıtlarımız, insanlara yardım sosyal programımızın ilk katılımcısı olduğunuzu gösteriyor.
+<clr:163,193,173>GLaDOS: Kotanı doldurarak aldığın terfi için tebrikler bu arada. İnsanların o ufak beyinlerini bir işe adadıklarında neler başarabileceklerini bize göstermiş oldun.
+<clr:163,193,173>GLaDOS: Onu dinleme, iyi olacaksın. Ayrıca dürüst olmak gerekirse: ilk günün biraz felaket oldu. Eğer öldüysen büyük ihtimalle bu en kötü şey değil.
+<clr:163,193,173>GLaDOS: Dürüst olmak gerekirse robot tamiri için gereğindne fazla niteliklisin. Senin için daha iyi bir görevim var.
+<clr:163,193,173>GLaDOS: Güle güle.
+<clr:163,193,173>GLaDOS: Bu bir kayıt. Bunu söylemek zorundaydı.
+<clr:163,193,173>GLaDOS: Bilmeni isterim ki başta insanlara sosyal yardım programına karşıydım. Ancak artık seni böyle etrafta sağa sola sallanan terlemiş bir jambonmuşçasına yaptığın hareketleri izlerken yanılmış olduğumu anladım. Bu hâlin çok komik.
+<clr:163,193,173>GLaDOS: Bu bir kayıt. Bunu söylemek zorundaydı. Çık dışarı.
+<clr:163,193,173>GLaDOS: Bilmeni isterim ki başta insanlara sosyal yardım programına karşıydım. Ancak artık seni böyle etrafta sağa sola sallanan terlemiş bir jambonmuşçasına yaptığın hareketleri izlerken yanılmış olduğumu anladım. Bu hâlin çok komik.
+<clr:163,193,173>GLaDOS: Buna inanamıyorum. Nasıl bir robot bu kadar kolay bir işi bile--oh, sensin.
+<clr:163,193,173>GLaDOS: Dürüst olmak gerekirse robot tamiri için gereğindne fazla niteliklisin. Senin için daha iyi bir görevim var. "Kovuldun" anlamına gelen ancak daha zalim ve nihai anlama gelen bir sözcük üretmeni istiyorum. Ardından, bunu bir kağıda yazmanı, onun da altına kendi adını yazmanı ve ardından bu kağıdı kendini vermeni istiyorum. Odayı, kalemle ateşe vermemeye de gayret et.

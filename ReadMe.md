@@ -71,6 +71,7 @@ Yamayı kurduktan sonra, `oyunismi\CaptionMod` klasöründeki `CaptionScheme.res
 * Kurulum ve ayar programı kaldırılarak her şey basitleştirildi.
 * [*Half-Life* 25. Yıl Dönümü Güncellemesi](https://www.half-life.com/tr/halflife25)'ne uyarlandı. (mevcut sürüm `9920`)
 	* Bu güncelleme ile *Uplink* eklentisi, *Half-Life*'ın içerisine alındı. O yüzden ekstradan kurulum yapmaya gerek yok, direkt olarak çeviriyi destekliyor.
+ * Menü çevirileri yapıldı.
 
 <ins>v1.2 ile gelen yenilikler:</ins>
 - Kurulum ve ayar programındaki gereksiz kodlar kaldırıldı.

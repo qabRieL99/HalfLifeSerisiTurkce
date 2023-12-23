@@ -5,24 +5,16 @@ You can read it in [English.](ReadMe_EN.md)
 
 ## Açıklama
 Bu çeviri, 5 Half-Life oyununu içerir:
-[*Half-Life*](https://store.steampowered.com/app/70), [*Half-Life: Opposing Force*](https://store.steampowered.com/app/50), [*Half-Life: Blue Shift*](https://store.steampowered.com/app/130), [*Half-Life: Decay*](https://www.moddb.com/mods/half-life-decay) ve [*Half-Life: Uplink*](https://www.halflifeuplink.com/hlulsl).
+[*Half-Life*](https://store.steampowered.com/app/70), [*Half-Life: Opposing Force*](https://store.steampowered.com/app/50), [*Half-Life: Blue Shift*](https://store.steampowered.com/app/130), [*Half-Life: Decay*](https://www.moddb.com/mods/half-life-decay) ve *Half-Life: Uplink*.
 
 ## :information_source: Genel Notlar
-* <ins>Yalnızca</ins> Steam sürümünde çalışmaktadır. (Mevcut sürüm `8684`)
+* <ins>Yalnızca</ins> Steam sürümünde çalışmaktadır. (Mevcut sürüm `9920`)
 * Oyunu yama ile birlikte oynarken, online şekilde bir sunucuya  **katılmayın.** <ins>Yoksa VAC ban yeme olasılığınız olur.</ins> Çevrimdışı oyunda, yani senaryo modunda sıkıntı çıkarmayacaktır. Yine de garantiye almak isterseniz, Steam'i **çevrimdışı modda** başlatın.
 	* Bu yüzden *Decay*'i tek başınıza oynamanız gerekiyor.
 * Birkaç yerde bazı satırlar sabit kodlu olduğu için çevrilemedi.
 * Bazı durumlarda yazılar ekranı kapladığı için kullanılmadı. (*Blue Shift*'te askerlerin yazıları, *Decay*'de giysi şarjı yüzdeleri)
 
 ## :camera: Ekran Görüntüleri
-<table>
-<tr>
-<td><img src="https://i.imgur.com/DnZ5M9w.png"/><br>Kurulum programı</td>
-<td><img src="https://i.imgur.com/ioNmJzP.png"/><br>Ayar programı</td>
-</tr>
-<tr>
-</table>
-
 <table>
 <td><img src="https://i.imgur.com/li0tszg.jpg" width="450" height="260" /> </td>
 <td><img src="https://i.imgur.com/pB5aYFM.jpg" width="450" height="260" /></td>
@@ -35,10 +27,9 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 
 ## :clipboard: Kurulum
 ### :computer: Otomatik:
-1. `CaptionMod Yükleyici` uygulamasını [Yayın:floppy_disk:](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden indirin ve çalıştırın.
-2. Program otomatik olarak *Half-Life* konumunuzu ve kurulu oyunları bulacaktır.
-3. Yüklemek istediğiniz yamaları işaretleyip `Yükle` tuşuna basın.
-4. Yamalar yüklenecek ve masaüstünüze CaptionMod Ayarları adında bir program daha eklenecektir. Bu dosya ile gerekli ayarları yapıp oyunları başlatabilirsiniz. 
+1. [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden 1.3 sürümünü indirin, arşivi masaüstüne çıkarın.
+2. Kurmak istediğiniz oyunun dosyasını seçip çalıştırın.
+3. Yamalar yüklenecek ve masaüstünüze **Altyazılı Half-Life** adında bir kısayol eklenecektir. Bu dosya ile oyunları başlatabilirsiniz. 
 
 ### :raised_hand: Elle:
 1. **Code** > **Download Zip** diyerek bütün dosyaları indirin.
@@ -49,12 +40,20 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 |bshift|*Half-Life: Blue Shift*|
 |decay|*Half-Life: Decay*|
 |gearbox|*Half-Life: Opposing Force*|
-|hlulsl|*Half-Life: Uplink*|
 |valve|*Half-Life*|
 
-3. Örnek olarak, *Decay*'i yükleyelim, indirdiğimiz dosyadaki `decay` klasörünü kopyalayıp, Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumdadır.)
-4. `metahook` isimli uygulamayı da kopyalayıp, *Half-Life* klasörüne atın ve ardından adını `decay` olarak değiştirin.
+3. Örnek olarak, *Decay*'i yükleyelim, indirdiğimiz dosyadaki `Build` klasörünün içindeki `decay` klasörünü kopyalayıp, Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumdadır.)
+4. `svencoop` isimli uygulamayı da kopyalayıp, *Half-Life* klasörüne atın ve ardından adını `decay` olarak değiştirin.
 5. `decay` isimli uygulamadan oyunu başlatın.
+
+## :gear: Altyazı ayarları:
+Yamayı kurduktan sonra, `oyunismi\CaptionMod` klasöründeki `CaptionScheme.res` ve `SubtitlePanel.res` dosyalarını bir metin düzenleyici ile açıp bazı değişiklikler yapabilirsiniz.
+* Yazı tipini ve boyutunu değiştirmek için `CaptionScheme.res` dosyasını açıp şu iki değeri değiştirebilirsiniz:
+	* `54`. satırdaki `SubtitleFont`'ın altındaki `name` değişkenini `Tahoma`'dan, bilgisayarınızda var olan herhangi bir yazı tipi ile değiştirebilirsiniz.
+	* `54`. satırdaki `SubtitleFont`'ın altındaki `tall` değişkenini `15`'ten, istediğiniz bir değere yükseltebilir veya düşürebilirsiniz.
+
+* Konuşan karakterin adının yazmasını istiyorsanız  `SubtitlePanel.res` dosyasını açıp şu değeri değiştirebilirsiniz:
+	* `35`. satırdaki `prefix` değişkenini `0` değerinden `1` değerine getirirseniz, konuşan karakterin ismi başta yazar.
 
 ## :warning: Oyun ve Mod ile alâkalı genel notlar ve ipuçları:
 * Sıkıntısız bir kurulum için **Yönetici** olarak çalıştırın.
@@ -65,12 +64,17 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 * Oyunu oynamak Steam'in çalışır durumda olması gerekir.
 
 ## :memo: Kaynak Kod
-CaptionMod Yükleyici ve CaptionMod Ayarlar programlarını kaynak kodlarına [şuradan](https://github.com/qabRieL99/CaptionModTools) erişebilirsiniz.
+[CaptionMod](https://github.com/hzqst/MetaHookSv/tree/main/Plugins/CaptionMod) eklentisi ve [SteamAppsLocation](https://github.com/hzqst/MetaHookSv/tree/main/toolsrc/SteamAppsLocation) uygulaması, [hzqst](https://github.com/hzqst) tarafından yapılmıştır. 
 
 ## :bookmark_tabs: Sürüm Geçmişi
+<ins>v1.3 ile gelen yenilikler:</ins>
+* Kurulum ve ayar programı kaldırılarak her şey basitleştirildi.
+* [*Half-Life* 25. Yıl Dönümü Güncellemesi](https://www.half-life.com/tr/halflife25)'ne uyarlandı. (mevcut sürüm `9920`)
+	* Bu güncelleme ile *Uplink* eklentisi, *Half-Life*'ın içerisine alındı. O yüzden ekstradan kurulum yapmaya gerek yok, direkt olarak çeviriyi destekliyor.
+
 <ins>v1.2 ile gelen yenilikler:</ins>
 - Kurulum ve ayar programındaki gereksiz kodlar kaldırıldı.
-- Kurulum sistemi iyileştirildi. (Program artık Steam konumu yerine Half-Life konumunu bulacak.)
+- Kurulum sistemi iyileştirildi. (Program artık Steam konumu yerine *Half-Life* konumunu bulacak.)
 - Kurulum ve ayar programının ayarları, yüksek DPI'yı algılayacak şekilde geliştirildi.
 - Ayar programında konuma hızlıca gidebilmek için bir kısa yol tuşu eklendi.
 - Bazı durumlarda gerçekleşen art arda altyazı çıkması durumu düzeltildi.

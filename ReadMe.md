@@ -27,8 +27,8 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 
 ## :clipboard: Kurulum
 ### :computer: Otomatik:
-1. [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden 1.3 sürümünü indirin, arşivi masaüstüne çıkarın.
-2. Kurmak istediğiniz oyunun dosyasını seçip çalıştırın.
+1. [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden 1.3 sürümünü indirin, arşivdeki `HalfLifeTurkceProjesi` klasörünü masaüstüne çıkarın.
+2. Klasör içinden kurmak istediğiniz oyunun dosyasını seçip çalıştırın.
 3. Yamalar yüklenecek ve masaüstünüze **Altyazılı Half-Life** adında bir kısayol eklenecektir. Bu dosya ile oyunları başlatabilirsiniz. 
 
 ### :raised_hand: Elle:

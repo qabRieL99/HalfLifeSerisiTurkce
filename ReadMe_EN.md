@@ -76,18 +76,18 @@ After installing the patch, you can open the `CaptionScheme.res` and `SubtitlePa
 *Menu translations have been made.
 
 <ins>What's new with v1.2:</ins>
-Unnecessary codes in the installation and setup program have been removed.
-Improved the installation system (the program will now find the *Half-Life* location instead of the Steam location).
-Improved the settings of the setup and setup program to detect high DPI.
-Added a shortcut key to quickly navigate to the location in the setup program.
-Fixed some instances of subtitles appearing consecutively.
+* Unnecessary codes in the installation and setup program have been removed.
+* Improved the installation system (the program will now find the *Half-Life* location instead of the Steam location).
+* Improved the settings of the setup and setup program to detect high DPI.
+* Added a shortcut key to quickly navigate to the location in the setup program.
+* Fixed some instances of subtitles appearing consecutively.
 
 <ins>What's new with v1.1:</ins>
-Fixed Blue Shift and Opposing Force not working.
-Added new installation and setup program.
-All translations have been reviewed and missing parts have been fixed.
-Fixed an issue where icons such as commas and periods were cut off prematurely.
-Simplified settings files for ease of use.
+* Fixed Blue Shift and Opposing Force not working.
+* Added new installation and setup program.
+* All translations have been reviewed and missing parts have been fixed.
+* Fixed an issue where icons such as commas and periods were cut off prematurely.
+* Simplified settings files for ease of use.
 
 <ins>v1.0</ins>
-Released for the first time.
+* Released for the first time.

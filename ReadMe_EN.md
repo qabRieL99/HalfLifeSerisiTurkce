@@ -72,8 +72,8 @@ After installing the patch, you can open the `CaptionScheme.res` and `SubtitlePa
 <ins>What's new with v1.3:</ins>
 * Everything has been simplified by removing the installation and setup program.
 * Adapted for the [*Half-Life* 25th Anniversary Update](https://www.half-life.com/en/halflife25)' (current version `9920`)
-*	With this update, `Uplink` plugin is included in `Half-Life`. So there is no need for extra installation, it directly supports translation.
-*Menu translations have been made.
+	*	With this update, `Uplink` plugin is included in `Half-Life`. So there is no need for extra installation, it directly supports translation.
+* Menu translations have been made.
 
 <ins>What's new with v1.2:</ins>
 * Unnecessary codes in the installation and setup program have been removed.

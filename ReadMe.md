@@ -16,12 +16,12 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 
 ## :camera: Ekran Görüntüleri
 <table>
-<td><img src="https://i.imgur.com/li0tszg.jpg" width="450" height="260" /> </td>
-<td><img src="https://i.imgur.com/pB5aYFM.jpg" width="450" height="260" /></td>
+<td><img src="https://i.imgur.com/li0tszg.jpg" width=%50 height=%50 /> </td>
+<td><img src="https://i.imgur.com/pB5aYFM.jpg" width=%50 height=%50 /></td>
 </tr>
 <tr>
-<td><img src="https://i.imgur.com/mp0kDtl.jpg" width="450" height="260" /></td>
-<td><img src="https://i.imgur.com/8gKEzvk.jpg" width="450" height="260" /></td>
+<td><img src="https://i.imgur.com/mp0kDtl.jpg" width=%50 height=%50 /></td>
+<td><img src="https://i.imgur.com/8gKEzvk.jpg" width=%50 height=%50 /></td>
 </tr>
 </table>
 

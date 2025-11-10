@@ -166,10 +166,11 @@ HEV_A1,#HEV_A1,Orange,,#HalfLife_HEV_Voice,,,
 HEV_A2,#HEV_A2,Orange,,#HalfLife_HEV_Voice,,,
 HEV_A3,#HEV_A3,Orange,,#HalfLife_HEV_Voice,,,
 HEV_A4,#HEV_A4,Orange,,#HalfLife_HEV_Voice,,,
-HEV_A8,#HEV_A8,Orange,,#HalfLife_HEV_Voice,,,
-HEV_A7,#HEV_A7,Orange,,#HalfLife_HEV_Voice,,,
 HEV_A5,#HEV_A5,Orange,,#HalfLife_HEV_Voice,,,
 HEV_A6,#HEV_A6,Orange,,#HalfLife_HEV_Voice,,,
+HEV_A7,#HEV_A7,Orange,,#HalfLife_HEV_Voice,,,
+HEV_A8,#HEV_A8,Orange,,#HalfLife_HEV_Voice,,,
+HEV_A9,#HEV_A9,Orange,,#HalfLife_HEV_Voice,,,C IGNORE_VOLUME_LIMIT //Added line
 HEV_A10,#HEV_A10,Orange,,#HalfLife_HEV_Voice,,,
 HEV_HLTH1,#HEV_HLTH1,Orange,,#HalfLife_HEV_Voice,,,
 HEV_HLTH2,#HEV_HLTH2,Orange,,#HalfLife_HEV_Voice,,,
@@ -218,6 +219,7 @@ holo/tr_sci_hardlynoticed.wav,#tr_sci_hardlynoticed,Gray,,#HalfLife_Scientist,,,
 holo/tr_sci_nextstation.wav,#tr_sci_nextstation,Gray,,#HalfLife_Scientist,,,
 holo/tr_sci_use.wav,#tr_sci_use,Gray,,#HalfLife_Scientist,,,
 holo/tr_sci_unuse.wav,#tr_sci_unuse,Gray,,#HalfLife_Scientist,,,
+holo/tr_ba_lightson.wav,#tr_ba_lightson,Blue,,#HalfLife_Security,,,C //Added line
 holo/tr_ba_use.wav,#tr_ba_use,Blue,,#HalfLife_Security,,,
 holo/tr_ba_unuse.wav,#tr_ba_unuse,Blue,,#HalfLife_Security,,,
 scientist/absolutely.wav,#absolutely,Gray,,#HalfLife_Scientist,,,
@@ -486,6 +488,12 @@ scientist/survival.wav,#survival,Gray,,#HalfLife_Scientist,,,
 scientist/thatsodd.wav,#thatsodd,Gray,,#HalfLife_Scientist,,,
 scientist/theoretically.wav,#theoretically,Gray,,#HalfLife_Scientist,,,
 scientist/thiswillhelp.wav,#thiswillhelp,Gray,,#HalfLife_Scientist,,,
+scientist/tr_sci1_sensors.wav,#tr_sci1_sensors,Gray,,#HalfLife_Scientist,,,C //Added line
+scientist/tr_sci2_veryinteresting.wav,#tr_sci2_veryinteresting,Gray,,#HalfLife_Scientist,,,C //Added line
+scientist/tr_sci3_welcome.wav,#tr_sci3_welcome,Gray,,#HalfLife_Scientist,,,C //Added line
+scientist/tr_sci4_legal.wav,#tr_sci4_legal,Gray,,#HalfLife_Scientist,,,C //Added line
+scientist/tr_sci5_questions.wav,#tr_sci5_questions,Gray,,#HalfLife_Scientist,,,C //Added line
+scientist/tr_sci6_holograph.wav,#tr_sci6_holograph,Gray,,#HalfLife_Scientist,,,C //Added line
 scientist/tunedtoday.wav,#tunedtoday,Gray,,#HalfLife_Scientist,,,
 scientist/tunnelcalc.wav,#tunnelcalc,Gray,,#HalfLife_Scientist,,,
 scientist/uselessphd.wav,#uselessphd,Gray,,#HalfLife_Scientist,,,

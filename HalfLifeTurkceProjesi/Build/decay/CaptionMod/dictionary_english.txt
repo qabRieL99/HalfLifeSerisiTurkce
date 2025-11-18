@@ -4,15 +4,15 @@
 "Tokens"
 {
 //Neccessities
-"CaptionMod_GameSaved"		"Game Saved..."
-"HalfLife_Hologram"			"[Hologram] "
-"HalfLife_Scientist"		"[Scientist] "
-"HalfLife_HEV_Voice"		"[HEV] "
-"HalfLife_VOX"		"[Announcer] "
-"HalfLife_HECU"		"[HECU] "
-"HalfLife_Rosenberg"		"[Rosenberg] "
+"CaptionMod_GameSaved"	"Game Saved..."
+"HalfLife_Hologram"		"[Hologram] "
+"HalfLife_Scientist"	"[Scientist] "
+"HalfLife_HEV_Voice"	"[HEV] "
+"HalfLife_VOX"	"[Announcer] "
+"HalfLife_HECU"	"[HECU] "
+"HalfLife_Rosenberg"	"[Rosenberg] "
 "HalfLife_Security"	"[Security Officer] "
-"HalfLife_Keller"		"[Keller] "
+"HalfLife_Keller"	"[Keller] "
 
 //Messages
 "HTTITLE"	"Half-Life: Decay"
@@ -482,7 +482,7 @@
 "thatsmell"	"That smell is, eh... interesting."
 "ties"	"The least they could do is let us wear differing ties. I really don't understand this uniform policy."
 "underbarrel"	"Shouldn't you be under the barrel now?"
-"undertest"		"Shouldn't you be under the test chamber by now?"
+"undertest"	"Shouldn't you be under the test chamber by now?"
 "keller"	"Wasn't Dr. Keller looking for you?"
 "assist"	"I believe you have an experiment to assist."
 "c1a0_sci_dis1d"	"Very good. We'll take it from here."

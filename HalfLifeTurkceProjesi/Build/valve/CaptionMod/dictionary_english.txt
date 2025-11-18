@@ -4,15 +4,15 @@
 "Tokens"
 {
 //Neccessities
-"CaptionMod_GameSaved"		"Game Saved..."
-"HalfLife_Hologram"			"[Hologram] "
-"HalfLife_Scientist"		"[Scientist] "
-"HalfLife_HEV_Voice"		"[HEV] "
-"HalfLife_VOX"		"[Announcer] "
-"HalfLife_HECU"		"[HECU] "
-"HalfLife_Radio"		"[Radio] "
+"CaptionMod_GameSaved"	"Game Saved..."
+"HalfLife_Hologram"	"[Hologram] "
+"HalfLife_Scientist"	"[Scientist] "
+"HalfLife_HEV_Voice"	"[HEV] "
+"HalfLife_VOX"	"[Announcer] "
+"HalfLife_HECU"	"[HECU] "
+"HalfLife_Radio"	"[Radio] "
 "HalfLife_Security"	"[Security Officer] "
-"HalfLife_Train"		"[Train] "
+"HalfLife_Train"	"[Train] "
 "HalfLife_Nihilanth"	"[Nihilanth] "
 
 //Messages
@@ -75,16 +75,9 @@
 "HZBARNEY"	"APPROACH SECURITY GUARD\nPRESS YOUR USE KEY TO GET HIS HELP\nWALK TOWARD DOOR AND GUARD\nWILL ACTIVATE BUTTONS"
 "HZTRAIN"	"PRESS USE KEY TO ENGAGE TRAIN\nPRESS FORWARD KEY TO ACCELERATE\nPRESS BACKWARD KEY TO DECELERATE\nPRESS USE KEY AGAIN TO DISENGAGE"
 "HZDONE"	"CONGRATULATIONS!\nYOU HAVE COMPLETED \nTHE BLACK MESA HAZARD COURSE.\nCOME BACK ANY TIME."
-"DEMOTITLE"	"UPLINK"
-"DEMOTXT1"	"SUBJECT:\nGORDON FREEMAN, Ph.D."
-"DEMOTXT2"	"CURRENT LOCATION:\nLAMBDA REACTOR COMPLEX\nBLACK MESA RESEARCH FACILITY"
-"DEMOTXT3"	"TIME:\nCONTAINMENT FAILURE + 48.00 HRS"
-"DEMOTXT4"	"STATUS:\nEVALUATION IN PROGRESS"
-"DEMOTXT6"	"CURRENT EVALUATION:\nUPLINK COMPLETED."
-"DEMOTXT7"	"REQUIRE FURTHER DATA."
-
 
 //Vox
+"C1A0_START"	"Hello. The Automatic Diagnostic and Announcement System welcomes you to the Black Mesa Research Facility. Remember: Have a secure day."
 "C1A0_0"	"Agent Coomer, report to Topside Tactical Operations Center."
 "C1A0_1"	"Inspection team to Radioactive Materials Handling Bay."
 "C1A0_2"	"Agent 16, report to Administration Sub-Level 2."
@@ -132,7 +125,7 @@
 "C1A3_9"	"Attention. All military personnel, extreme atomic biological chemical alert."
 "C1A3_10"	"Attention. Black Mesa Announcement System now under military command."
 "C1A3_warn"	"Attention. Security lockout alert. Security door will engage."
-"C1A3_lock	"	"Security door engaged. Five. Four. Three. Two. One. Lockout activated."
+"C1A3_lock"	"Security door engaged. Five. Four. Three. Two. One. Lockout activated."
 "POWER_OFF"	"Main power is not on."
 "C3A1_8"	"All personnel evacuate Lambda Complex, extreme dimensional malfunction detected."
 "C3A2_0"	"Warning. Cross-dimensional power field activity detected."
@@ -187,10 +180,11 @@
 "HEV_A2"	"High-impact reactive armor activated."
 "HEV_A3"	"Atmospheric contaminant sensors activated."
 "HEV_A4"	"Vital signs monitoring activated."
-"HEV_A8"	"Automatic medical systems engaged."
-"HEV_A7"	"Defensive weapon selection system activated."
 "HEV_A5"	"Munition level monitoring activated."
 "HEV_A6"	"Communications interface online."
+"HEV_A7"	"Defensive weapon selection system activated."
+"HEV_A8"	"Automatic medical systems engaged."
+"HEV_A9"	"Power is %100"
 "HEV_A10"	"Have a very safe day."
 "HEV_HLTH1"	"Vital signs are dropping."
 "HEV_HLTH2"	"Warning: Vital signs critical."
@@ -235,13 +229,13 @@
 "HEV_AMO0"	"Ammunition depleted."
 "HEV_MED1"	"Automatic medical systems engaged."
 
-
 //Hazard Course
 "tr_sci_goodwork"	"Good work! Those new suits can be tricky. Please proceed to the next area."
 "tr_sci_hardlynoticed"	"Very good! I hardly noticed you. Move on to the next area."
 "tr_sci_nextstation"	"Good work! You look prepared for the next station."
 "tr_sci_use"	"Yes. I will follow you, if you wish."
 "tr_sci_unuse"	"Okay. I will wait here."
+"tr_ba_lightson"  "Let me get the lights and you can try that again."
 "tr_ba_use"	"Sure! I'll follow you."
 "tr_ba_unuse"	"OK, I'll wait here."
 
@@ -251,7 +245,7 @@
 "administrator"	"I suspected this could happen but the Administrator just would not listen."
 "afellowsci"	"A fellow scientist."
 "ahfreeman"	"Ah, Freeman."
-"alienapeal"	"Do you think we should appeal to the alien authorities?"
+"alienappeal"	"Do you think we should appeal to the alien authorities?"
 "alientrick"	"Do you suspect some alien subterfuge behind this failure?"
 "allnominal"	"Yes, this all looks nominal."
 "alright"	"Alright."
@@ -365,7 +359,7 @@
 "donuteater"	"Do you know who ate all the donuts?"
 "doyousmell"	"Do you smell what I smell?"
 "evergetout"	"Will we ever make it out of here?"
-"erseen"	"Have you ever seen anything like this?"
+"everseen"	"Have you ever seen anything like this?"
 "excellentteam"	"With my brains and your brawn we'll make an excellent team."
 "excuse"	"Excuse me, Gordon."
 "fascinating"	"Don't you find this all rather fascinating?"
@@ -533,14 +527,6 @@
 "scientistyouneedmedic"	"It appears that you need medical attention right away." //tag
 "youwounded"	"Ah, you've been wounded."
 
-//Uplink Scientist
-"c1a4_sci_blind"	"Is someone there? I can't see a thing."
-"c3a1_sci_2sat"	"I'm sorry, but those doors will not open until we send the all-clear."
-"c3a1_sci_4sat"	"I would love to do that, but the area bombardment has made a wreck of my transmitter, the cables are separate, we have to aim it by hand and I'm getting high radiation levels in the transmitter dome. Nobody but a fool would go in there."
-"c3a1_sci_6sat"	"Yes. You could survive in that suit of yours. Very well. I will lower security on the satellite access elevator, and you can go up into the dome. I'll try to help you over the intercom."
-"c3a1_sci_dome"	"Freeman. You want to work quickly. Tune the transmitter to US NRC. I repeat! Tune to the US NRC."
-"c3a1_sci_done"	"Excellent. I'm sending the all-clear and the door should open now. We'll meet you down below."
-
 //Barney
 "aimforhead"	"Aim for the head, if you can find it."
 "aintgoin"	"I'm not going anywhere."
@@ -626,7 +612,7 @@
 "guyresponsible"	"I'd like to get my hands on the guy responsible for this mess."
 "hardtosay"	"It's hard to say."
 "haybuddy"	"Hey, Gordon."
-"hayfella"		"Sir."
+"hayfella"	"Sir."
 "hearsomething"	"I hear something."
 "hearsomething2"	"Hey, I hear something."
 "hellonicesuit"	"Hello."
@@ -692,14 +678,6 @@
 "youneedmedic"	"Sir, that injury may need some attention soon."
 "youtalkmuch"	"You talk too much."
 "yup"	"Yup."
-
-//Barney Scientist Specific
-"c3a2_ba_stay"	"I'm gonna stay down here. If I see anything looks like it doesn't belong, I'll start shooting."
-"c1a4_ba_octo4"	"Hey, eat this you bastard!"
-"c3a1_ba_1sat"	"Open up the Reactor Complex so we can get down to safety."
-"c3a1_ba_3sat"	"So send it already!"
-"c3a1_ba_5sat"	"What about this guy?"
-
 
 //Train Ride
 "c0a0_tr_gmorn"	"Good morning and welcome to the Black Mesa Transit System. This automated train is provided for the security and convenience of the Black Mesa Research Facility personnel."
@@ -829,6 +807,14 @@
 "hg_sucks"	"I killed twelve dumb ass scientists and not one of 'em fought back. This sucks."
 "hg_civvies"	"I didn't sign on for this shit. Monsters, sure, but civilians? Who ordered this operation anyway?"
 
+//PS2 Hazard Course
+"tr_sci1_sensors"	"Oh dear, why aren't these sensors working? I wonder if they're needed for today's training run."
+"tr_sci2_veryinteresting"	"Very interesting!"
+"tr_sci3_welcome"	"Ah, good morning, Gordon! Welcome to the Black Mesa training facility. Things are in a state of commotion this morning. But, the training facility software should be in working condition."
+"tr_sci4_legal"	"Please listen carefully as there is a little paperwork to take care of before we get started. Oh, I see that you have already signed our legal disclaimer: \"I, Gordon Freeman, hereby agree to the following terms, blah blah blah, in any case of serious injury, dismemberment, toxic poisoning, burns, rashes, lesions, blah blah, et cetera et cetera...hereby agree to waive all rights as an employee of the Black Mesa facility.\""
+"tr_sci5_questions"	"Okay, very good...and if there are no questions, then please step through this door to begin your training."
+"tr_sci6_holograph"	"The holographic assistant will instruct you as you make your way through the course. We'll be watching you–at various points–to track your progress. Okay then, you may proceed, Gordon."
+
 //Hazard Course
 "tr_holo_intro"	"Hello and welcome to the Black Mesa Hazard Course, where you'll be trained in the use of a hazardous environment suit. I am your holographic assistant. Let's begin by stepping into your suit. You can see it suspended up ahead of you."
 "tr_holo_button"	"If you see one of these buttons, press it and I will appear to demonstrate certain moves."
@@ -882,5 +868,27 @@
 "nil_thetruth"	"The truth... you can never know... the truth..."
 "nil_deceive"	"Deceive you... will deceive you..."
 "nil_now_die"	"Now die... now die... now..."
+
+"DEMOTITLE"	"UPLINK"
+"DEMOTXT1"	"SUBJECT:\nGORDON FREEMAN, Ph.D."
+"DEMOTXT2"	"CURRENT LOCATION:\nLAMBDA REACTOR COMPLEX\nBLACK MESA RESEARCH FACILITY"
+"DEMOTXT3"	"TIME:\nCONTAINMENT FAILURE + 48.00 HRS"
+"DEMOTXT4"	"STATUS:\nEVALUATION IN PROGRESS"
+"DEMOTXT6"	"CURRENT EVALUATION:\nUPLINK COMPLETED."
+"DEMOTXT7"	"REQUIRE FURTHER DATA."
+
+//Uplink Scientist
+"c1a4_sci_blind"	"Is someone there? I can't see a thing."
+"c3a1_sci_2sat"	"I'm sorry, but those doors will not open until we send the all-clear."
+"c3a1_sci_4sat"	"I would love to do that, but the area bombardment has made a wreck of my transmitter, the cables are separate, we have to aim it by hand and I'm getting high radiation levels in the transmitter dome. Nobody but a fool would go in there."
+"c3a1_sci_6sat"	"Yes. You could survive in that suit of yours. Very well. I will lower security on the satellite access elevator, and you can go up into the dome. I'll try to help you over the intercom."
+"c3a1_sci_dome"	"Freeman. You want to work quickly. Tune the transmitter to US NRC. I repeat! Tune to the US NRC."
+"c3a1_sci_done"	"Excellent. I'm sending the all-clear and the door should open now. We'll meet you down below."
+
+//Uplink Security
+"c1a4_ba_octo4"	"Hey, eat this you bastard!"
+"c3a1_ba_1sat"	"Open up the Reactor Complex so we can get down to safety."
+"c3a1_ba_3sat"	"So send it already!"
+"c3a1_ba_5sat"	"What about this guy?"
 }
 }

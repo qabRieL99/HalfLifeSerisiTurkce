@@ -4,15 +4,15 @@
 "Tokens"
 {
 //Neccessities
-"CaptionMod_GameSaved"		"Game Saved..."
-"HalfLife_Hologram"			"[Hologram] "
-"HalfLife_Scientist"		"[Scientist] "
-"HalfLife_HEV_Voice"		"[HEV] "
-"HalfLife_VOX"		"[Announcer] "
-"HalfLife_HECU"		"[HECU] "
-"HalfLife_Radio"		"[Radio] "
+"CaptionMod_GameSaved"	"Game Saved..."
+"HalfLife_Hologram"	"[Hologram] "
+"HalfLife_Scientist"	"[Scientist] "
+"HalfLife_HEV_Voice"	"[HEV] "
+"HalfLife_VOX"	"[Announcer] "
+"HalfLife_HECU"	"[HECU] "
+"HalfLife_Radio"	"[Radio] "
 "HalfLife_Security"	"[Security Officer] "
-"HalfLife_Train"		"[Train] "
+"HalfLife_Train"	"[Train] "
 
 //Messages
 "GAMETITLE"	"Half-Life: Opposing Force"
@@ -541,7 +541,7 @@
 "down"	"Get down!"
 "bogies"	"We got bogies!"
 "hostiles"	"Squad, we got hostiles!"
-"alien"		"Alien movement!"
+"alien"	"Alien movement!"
 "clear"	"Clear this area!"
 "cover"	"Take cover!"
 "staydown"	"Squad, stay down!"

@@ -16,6 +16,7 @@ Bu çeviri, 5 Half-Life oyununu içerir:
   * Bu yüzden *Decay*'i tek başınıza oynamanız gerekiyor.
 * Bazı yerlerde sabit kodlu satırlar çevrilemedi.
 * Bazı yazılar ekranı kapladığı için kullanılmadı. (*Blue Shift*'te askerlerin yazıları, *Decay*'de giysi şarjı yüzdeleri).
+* Metahook, oyuna kod enjekte ettiği ve dosyaları değiştirdiği için antivirüs uyarıları verebilir; bu davranışlar kötü amaçlı yazılımlara benzer. Ancak bunlar genellikle yanlış alarmdır. Metahook açık kaynaklıdır, bu yüzden herkes kodunu inceleyebilir.
 
 ## :camera: Ekran Görüntüleri
 <table>

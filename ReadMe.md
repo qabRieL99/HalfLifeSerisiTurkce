@@ -11,7 +11,7 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 - *Half-Life: Uplink*.
 
 ## :information_source: Genel Notlar
-* <ins>Yalnızca</ins> Steam sürümünde çalışmaktadır. (Mevcut sürüm `9920`)
+* <ins>Yalnızca</ins> Steam sürümünde çalışmaktadır. (Mevcut sürüm `10210`)
 * Oyunu yama ile birlikte oynarken **online** bir sunucuya **katılmayın**. <ins>Yoksa VAC ban yeme olasılığınız olur.</ins> Çevrimdışı oyunda (senaryo modunda) sıkıntı çıkarmayacaktır. Yine de garantiye almak isterseniz, Steam'i **çevrimdışı modda** başlatın.
   * Bu yüzden *Decay*'i tek başınıza oynamanız gerekiyor.
 * Bazı yerlerde sabit kodlu satırlar çevrilemedi.
@@ -30,12 +30,12 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 
 ## :clipboard: Kurulum
 ### :computer: Otomatik:
-1. [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden 1.3 sürümünü indirin, arşivdeki `HalfLifeTurkceProjesi` klasörünü masaüstüne çıkarın.
-2. Klasör içinden kurmak istediğiniz oyunun dosyasını seçip çalıştırın.
-3. Yamalar yüklenecek ve masaüstünüze **Altyazılı Half-Life** adında bir kısayol eklenecektir. Bu dosya ile oyunları başlatabilirsiniz.
+1. [Yayın](https://github.com/qabRieL99/HalfLifeSerisiTurkce/releases/) bölümünden 1.4 sürümünü indirin, arşivdeki `Build` klasörünü ve `CaptionMod`uygulamasını masaüstüne çıkarın.
+2. Kurmak istediğiniz oyunu seçip, `Yükle` butonuna basın.
+3. Altyazı modu yüklenecek ve masaüstünüze bir kısayol eklenecektir. Bu kısayol ile oyunları başlatabilirsiniz.
 
 ### :raised_hand: Elle:
-1. **Code** > **Download Zip** diyerek bütün dosyaları indirin.
+1. Yayın kısmından dosyayı indirin.
 2. Yüklemek istediğiniz oyuna karar verin:
 
 | Kısaltma | Açılımı |
@@ -45,32 +45,26 @@ Bu çeviri, 5 Half-Life oyununu içerir:
 | gearbox  | *Half-Life: Opposing Force* |
 | valve    | *Half-Life* |
 
-3. Örnek olarak, *Decay*'i yükleyelim. İndirdiğimiz dosyadaki `Build` klasörünün içindeki `decay` klasörünü kopyalayıp, Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumunda.)
-4. `svencoop` isimli uygulamayı da kopyalayıp, *Half-Life* klasörüne atın ve adını `decay` olarak değiştirin.
-5. `decay` isimli uygulamadan oyunu başlatın.
-
-## :gear: Altyazı Ayarları:
-Yamayı kurduktan sonra, `oyunismi\CaptionMod` klasöründeki `CaptionScheme.res` ve `SubtitlePanel.res` dosyalarını bir metin düzenleyici ile açıp bazı değişiklikler yapabilirsiniz.
-
-* Yazı tipini ve boyutunu değiştirmek için:
-  - `CaptionScheme.res` dosyasını açıp, `SubtitleFont`'ın altındaki `name` değişkenini `Tahoma`'dan bilgisayarınızda bulunan bir yazı tipiyle değiştirebilirsiniz.
-  - `SubtitleFont`'ın altındaki `tall` değişkenini `15`'ten istediğiniz değere yükseltebilir veya düşürebilirsiniz.
-  
-* Konuşan karakterin adının yazmasını istiyorsanız:
-  - `SubtitlePanel.res` dosyasını açıp, `prefix` değişkenini `0`'dan `1`'e getirirseniz, konuşan karakterin ismi başta yazar.
+3. Örnek olarak, *Decay*'i yükleyelim. İndirdiğimiz dosyadaki `Build` klasörünün içindeki `decay` ve `decay_hidpi` klasörünü kopyalayıp, Steam klasörünün içindeki Half-Life klasörüne atın. (Varsayılan olarak `C:\Program Files\Steam\steamapps\common\Half-Life` konumunda.)
+4. `Metahook` isimli uygulamayı da kopyalayıp, *Half-Life* klasörüne atın (bir önceki adımda anlatılan konum) ve adını `decay` olarak değiştirin.
+5. Değiştirdiğimiz uygulamaya sağ tıklayıp masaüstüne kısayol gönderin.
+6. Kısayola, `Sağ Tık` -> `Özellikler` deyip, Hedef kısmına şunu ekleyin: `-insecure -game valve -forcelang turkish`
 
 ## :warning: Oyun ve Mod ile Alakalı Genel Notlar ve İpuçları:
 * Sıkıntısız bir kurulum için **Yönetici** olarak çalıştırın.
 * *Blue Shift* ve *Opposing Force*'ta fare sıkıntısı yaşanıyorsa, konsolu açıp (**é** tuşu ile) `m_rawinput 1` yazın.
   * Fare hassasiyetini `sensitivity #` komutuyla değiştirebilirsiniz. (# yerine bir sayı girin.)
-* Çözünürlükle ilgili sorun varsa, uygulamanın özelliklerinden uyumluluk seçeneğini değiştirin. ([Görsel anlatım](https://img.donanimhaber.com/upfiles/794792/66454e33-7d67-48fc-b0be-3520d8dc719e.jpeg))
-  * 16:9 çözünürlük kullanıyorsanız (`1920x1080` veya `1366x768` gibi), konsola `default_fov 106` yazın.
 * Oyunu oynamak için Steam'in çalışır durumda olması gerekir.
 
 ## :memo: Kaynak Kod
-[CaptionMod](https://github.com/hzqst/MetaHookSv/tree/main/Plugins/CaptionMod) eklentisi ve [SteamAppsLocation](https://github.com/hzqst/MetaHookSv/tree/main/toolsrc/SteamAppsLocation) uygulaması, [hzqst](https://github.com/hzqst) tarafından yapılmıştır.
+[CaptionMod](https://github.com/hzqst/MetaHookSv/tree/main/Plugins/CaptionMod) eklentisi [hzqst](https://github.com/hzqst) tarafından yapılmıştır.
 
 ## :bookmark_tabs: Sürüm Geçmişi
+### <ins>v1.4 ile Gelen Yenilikler:</ins>
+- Çeviriler gözden geçirildi.
+- Mod, güncel sürüme yükseltildi.
+- Yeni bir kurulum programı eklendi.
+
 ### <ins>v1.3 ile Gelen Yenilikler:</ins>
 - Kurulum ve ayar programı kaldırılarak her şey basitleştirildi.
 - [*Half-Life* 25. Yıl Dönümü Güncellemesi](https://www.half-life.com/tr/halflife25)'ne uyarlandı. (Mevcut sürüm `9920`)

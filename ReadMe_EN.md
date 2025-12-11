@@ -16,6 +16,7 @@ This mod includes 5 Half-Life games:
   - That's why you should play *Decay* alone.
 - Some lines could not be translated as they are hard-coded in certain areas.
 - Some texts were not used due to their size (e.g., soldier lines in *Blue Shift* and suit charge percentages in *Decay*).
+- Metahook may trigger antivirus warnings because it injects code and modifies the game, which resembles malware-like behavior. These are usually false positives. Metahook is open source, so anyone can inspect the code.
 
 ## :camera: Screenshots
 <table>
